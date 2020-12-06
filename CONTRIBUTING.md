@@ -2,7 +2,7 @@ If you can add a company or improve a description please comment in the [sheet](
 
 - Please include suggestions for all columns, but keep it short.
 - Office size (S < 20, M 20-100, L > 100) is an estimate based on LinkendIn location filter, industry knowledge, recent job advertisements etc.
-- Relevant offices (if non-sales office with sufficient amount of geo-related jobs) are listed separately.
+- Relevant (B)ranch offices (if non-sales office with sufficient amount of geo-related jobs) are listed separately.
 - The list is mostly focused on commercial companies, currently there are no research institues included.
 
 Thank you to the many people that contributed to this list!

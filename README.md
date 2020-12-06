@@ -826,4 +826,10 @@ List of 500+ geospatial companies & interactive map
 | [Skymap Global](https://skymapglobal.com)             | S (B)         | Vietnam   | :globe_with_meridians: Location-based analytics platforms for buiseness, agriculture, forest insights | [:round_pushpin: Hanoi](https://www.google.com/maps/search/Van+Quan,+Ha+Dong,+Hanoi,+Vietnam+)                          |
 | [Spatial Decisions](http://www.spatialdecisions.com/) | S (B)         | Vietnam   | :globe_with_meridians: GIS consultancy (urban/regional planning, energy/infrastructure, climate)      | [:round_pushpin: Hanoi](https://www.google.com/maps/search/36B,+Ngõ+11+-+Tô+Ngọc+Vân,+Tây+Hồ+District,+Hanoi,+Vietnam+) | 
 
- 
+
+<br>
+<br>
+
+- Office size (S < 20, M 20-100, L > 100) is an estimate based on LinkendIn location filter, industry knowledge, recent job advertisements etc.
+- Relevant (B)ranch offices (if non-sales office with sufficient amount of geo-related jobs) are listed separately.
+- The list is mostly focused on commercial companies, currently there are no research institues included.
