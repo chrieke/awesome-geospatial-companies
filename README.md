@@ -1,18 +1,21 @@
 # Geospatial Companies
 
-List of 500+ geospatial companies & interactive map
+List of 500+ geospatial companies & interactive map 
 
-:earth_americas: Earth Observation  :airplane: UAV / Aerial  :globe_with_meridians: GIS / Spatial Analysis :seedling: Digital Farming :world_map: Webmap / Cartography :artificial_satellite: Satellite Operator
+:earth_americas: Earth Observation :globe_with_meridians: GIS / Spatial Analysis :airplane: UAV / Aerial :seedling: Digital Farming :world_map: Webmap / Cartography :artificial_satellite: Satellite Operator
+
 
 <p align="center">
-  <img width="600" src="figures/companies.png">
+  <img width="700" src="figures/companies.png">
 </p>
 
 <br>
 
-![](figures/preview.jpg)
+<p align="center">
+  <img width="600" src="figures/preview.jpg">
+</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Click for the Google sheet](https://docs.google.com/spreadsheets/d/1oBwZ7hq68nXnRV7wuM3-Aae9uRDyjnIOIEQXgQZAoBQ/edit?usp=sharing)**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Interactive map](https://www.google.com/maps/d/u/1/edit?mid=1SCCvhv3Tn3acV3EeY91dGxCdLuvSPGCH&ll=12.620988341515933%2C1.3867958402220069&z=3)**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Interactive map](https://www.google.com/maps/d/u/1/edit?mid=1SCCvhv3Tn3acV3EeY91dGxCdLuvSPGCH&ll=12.620988341515933%2C1.3867958402220069&z=3)**  
 
 <br>
 
