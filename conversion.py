@@ -29,6 +29,7 @@ pdf = pd.read_csv("geospatial_companies_map_medium - Companies A-Z.csv")
 
 pdf = reformat(df=pdf)
 
+chapter_string = ""
 markdown_string = ""
 for country in sorted(pdf.Country.unique()):
 	df_country = pdf[pdf['Country'] == country]
@@ -48,7 +49,11 @@ for country in sorted(pdf.Country.unique()):
 	if flag_emoji in list(country_emoji.keys()):
 		flag_emoji = country_emoji[flag_emoji]
 
+	repo_link = "https://github.com/chrieke/awesome-geospatial-companies#"
+	chapter_link = f"[{country}]({repo_link}{country.lower().replace(' ', '-')}-{flag_emoji})"
+	chapter_string = chapter_string + f"{chapter_link} - "
+
 	markdown_string = markdown_string + f"## {country} :{flag_emoji}: \n" + f"{df_country.to_markdown(index=False)} \n\n "
 
 with open("Output.md", "w") as text_file:
-	text_file.write(markdown_string)
+	text_file.write(chapter_string + "\n\n" + markdown_string)
