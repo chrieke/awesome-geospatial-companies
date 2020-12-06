@@ -1,6 +1,8 @@
 # Geospatial Companies
 
-List of 500+ geospatial companies (GIS, Earth Observation, UAV, Satellite, Digital Farming, ..)
+List of 500+ geospatial companies & interactive map
+
+:earth_americas: Earth Observation  :airplane: UAV / Aerial  :globe_with_meridians: GIS / Spatial Analysis :seedling: Digital Farming :world_map: Webmap / Cartography :artificial_satellite: Satellite Operator
 
 <br>
 
