@@ -1,4 +1,4 @@
-# Geospatial Companies
+# Awesome Geospatial Companies [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 List of 500+ geospatial companies & interactive map 
 
