@@ -198,7 +198,7 @@ List of 500+ geospatial companies & interactive map
 | [Maptionaire](https://maptionnaire.com)  | S             | :world_map: Resident engagement & map insights for urban planning                            | [:round_pushpin: Helsinki](https://www.google.com/maps/search/Kanavaranta+7,+00160+Helsinki,+Finland+)      |
 | [Sharpershape](https://sharpershape.com) | S (B)         | :airplane: UAV automated utility inspections                                                 | [:round_pushpin: Espoo](https://www.google.com/maps/search/Lintuvaarantie+2,+02650+Espoo,+Finland+)         | 
 
- ## France :fn: 
+ ## France :fr: 
 | Company                                                          | Office Size   | Focus                                                                                   | Address (Click)                                                                                                                                    |
 |:-----------------------------------------------------------------|:--------------|:----------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------|
 | [ACRI-ST](http://www.acri-st.fr)                                 | M             | :earth_americas: EO mission simulation, environmental monitoring                        | [:round_pushpin: Garbejaire](https://www.google.com/maps/search/260+Route+du+Pin+Montard,+06904+Sophia-Antipolis,+France+)                         |

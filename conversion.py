@@ -1,5 +1,6 @@
 import pandas as pd
 
+
 def reformat(df):
 	categories = {"Earth Observation": ":earth_americas:",
 	              "UAV / Aerial": ":airplane:",
@@ -34,7 +35,7 @@ for country in sorted(pdf.Country.unique()):
 	df_country = df_country.drop(["Country"], axis=1)
 
 	country_emoji = {"china": "cn",
-	                 "france": "fn",
+	                 "france": "fr",
 	                 "germany": "de",
 	                 "italy": "it",
 	                 "south_korea": "kr",
