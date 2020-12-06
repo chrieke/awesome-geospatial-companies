@@ -25,14 +25,29 @@ def reformat(df):
 
 pdf = pd.read_csv("geospatial_companies_map_medium - Companies A-Z.csv")
 # display(pdf.head(1))
+
 pdf = reformat(df=pdf)
 
 markdown_string = ""
 for country in sorted(pdf.Country.unique()):
 	df_country = pdf[pdf['Country'] == country]
-	df_country.drop(["Country"], axis=1)
+	df_country = df_country.drop(["Country"], axis=1)
 
-	markdown_string = markdown_string + f"## {country} \n" + f"{df_country.to_markdown(index=False)} \n\n "
+	country_emoji = {"china": "cn",
+	                 "france": "fn",
+	                 "germany": "de",
+	                 "italy": "it",
+	                 "south_korea": "kr",
+	                 "spain": "es",
+	                 "turkey": "tr",
+	                 "uae": "united_arab_emirates",
+	                 "usa": "us"}
+	flag_emoji = country.lower()
+	flag_emoji = flag_emoji.replace(" ", "_")
+	if flag_emoji in list(country_emoji.keys()):
+		flag_emoji = country_emoji[flag_emoji]
+
+	markdown_string = markdown_string + f"## {country} :{flag_emoji}: \n" + f"{df_country.to_markdown(index=False)} \n\n "
 
 with open("Output.md", "w") as text_file:
 	text_file.write(markdown_string)
