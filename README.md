@@ -497,7 +497,7 @@ List of 500+ geospatial companies & interactive map
 | [Eurosense](http://www.eurosense.com/)       | S (B)         | :airplane: Aerial imagery & LiDAR acquisition, all-purpose analysis                | [:round_pushpin: Bucharest](https://www.google.com/maps/search/Calea+Victoriei+26,+Sector+3+-+030027+-+Bucharest,+ROMANIA+) |
 | [Terrasigna](http://www.terrasigna.com)      | S             | :earth_americas: EO: All-purpose, InSAR / PSI                                      | [:round_pushpin: Bucharest](https://www.google.com/maps/search/3+Logofat+Luca+Stroici+Street,+020581,+Bucharest,+Romania+)  | 
 
- ## Russia :russia: 
+ ## Russia :ru: 
 | Company                                      | Office Size   | Focus                                                                              | Address (Click)                                                                                                             |
 |:---------------------------------------------|:--------------|:-----------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------|
 | [NextGIS](https://www.nextgis.com)      | M             | :globe_with_meridians: Full stack developers: Webserver, Desktop, Mobile                                      | [:round_pushpin: Moscow](https://www.google.com/maps/search/Novaya+Basmannaya+Ulitsa,+23%D0%B1%D1%8120,+Moskva,+107078)  | 
