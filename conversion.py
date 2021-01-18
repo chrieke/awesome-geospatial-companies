@@ -43,7 +43,9 @@ for country in sorted(pdf.Country.unique()):
 	                 "spain": "es",
 	                 "turkey": "tr",
 	                 "uae": "united_arab_emirates",
-	                 "usa": "us"}
+	                 "usa": "us",
+	                 "russia": "ru",
+	                 "japan": "jp"}
 	flag_emoji = country.lower()
 	flag_emoji = flag_emoji.replace(" ", "_")
 	if flag_emoji in list(country_emoji.keys()):
