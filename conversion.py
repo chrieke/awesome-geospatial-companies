@@ -24,7 +24,7 @@ def reformat(df):
 	return df
 
 
-pdf = pd.read_csv("geospatial_companies_map_medium - Companies A-Z.csv")
+pdf = pd.read_csv("awesome-geospatial-companies - Companies A-Z.csv")
 # display(pdf.head(1))
 
 pdf = reformat(df=pdf)
