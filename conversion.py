@@ -21,11 +21,10 @@ args = parser.parse_args()
 def check_urls(urls: List[str]):
     for url in tqdm(urls):
         try:
-            with urllib.request.urlopen("http://python.org/") as response:
-                response.read()
-        except urllib.error.URLError as e:
+            urllib.request.urlopen(url)
+        except (urllib.error.URLError, ValueError) as e:
             # Do something when request fails
-            print("Broken URL - ", url, "- reason - ", e)
+            print("Broken URL - ", url, e)
 
 
 def reformat(df):
