@@ -21,8 +21,7 @@ args = parser.parse_args()
 
 def check_urls(urls: List[str]):
     # Include basic header info to avoid scraping blocks
-    headers = {'User-Agent': 'Mozilla/5.0'}
-
+    headers = {"User-Agent": "Mozilla/5.0"}
 
     for url in tqdm(urls):
         req = Request(url, headers=headers)
