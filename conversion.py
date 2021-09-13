@@ -1,5 +1,6 @@
 from typing import List
-import urllib.request
+from urllib.request import Request, urlopen
+from urllib.error import URLError
 import argparse
 
 import pandas as pd
@@ -19,10 +20,14 @@ args = parser.parse_args()
 
 
 def check_urls(urls: List[str]):
+    # Include basic header info to avoid scraping blocks
+    headers = {"User-Agent": "Mozilla/5.0"}
+
     for url in tqdm(urls):
+        req = Request(url, headers=headers)
         try:
-            urllib.request.urlopen(url)
-        except (urllib.error.URLError, ValueError) as e:
+            urlopen(req)
+        except (URLError, ValueError) as e:
             # Do something when request fails
             print("Broken URL - ", url, e)
 
