@@ -54,7 +54,7 @@ def reformat(df):
         lambda x: f"[:round_pushpin: {x['City']}]({gmaps_url}{x['Address']})", axis=1
     )
 
-    df = df.drop(["Website", "Category", "City", "Address"], axis=1)
+    df = df.drop(["Website", "Category", "City", "Address", "Notes (ex-name)"], axis=1)
 
     return df
 
