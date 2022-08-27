@@ -1,3 +1,11 @@
+"""
+Converts the companies Google sheet to the markdown formatting of the repository readme.
+Due to the manual process of the information gathering on the companies & complex markdown formatting in the github
+readme, the company data is managed in a Google sheet. This script automatically converts and formats it.
+
+Add "--check-urls" to check for broken company website URLs.
+"""
+
 from typing import List
 from urllib.request import Request, urlopen
 from urllib.error import URLError
