@@ -6,3 +6,8 @@ If you can add a company or improve a description please comment in the [sheet](
 - The list is mostly focused on commercial companies, currently there are no research institues included.
 
 Thank you to the many people that contributed to this list!
+
+dchirst, gakarak, DahnJ, majorgyb, ErinBaker, NiklasJordan, seralf, bayoishola20, aurelienchaumet, soxofaan, 
+whatnick, alvintuitoek, hm-di, freyfogle, appanacca, lukejocz, fvanderbiest, julienr, simgislab, NBrown140, 
+rbrundritt, Corbelbiz, AleMScof, Flávia Mendes, Marcia Edwards, Danielle Caron, Milian Novotny, Balen Basu, Jessica 
+Immelman, Patryk Pilpczuk, Ean Aicrag, Mihkel Lehtmets, Sophie Roney, Frederico Bayle, Ömercan Kömür and many more! 
