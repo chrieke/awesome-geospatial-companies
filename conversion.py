@@ -72,9 +72,8 @@ pdf = pd.read_csv("awesome-geospatial-companies - Companies A-Z.csv")
 # display(pdf.head(1))
 
 if pdf.loc[:, pdf.columns != 'Notes (ex-name)'].isnull().values.any():
-    print("NA values in ...")
     print(pdf[pdf.loc[:, pdf.columns != 'Notes (ex-name)'].isnull().any(axis=1)])
-    sys.exit("Table contains NA values!!!")
+    raise ValueError("Table contains NA values!!!")
 
 if args.check_urls:
     check_urls(urls=pdf["Website"].values)
