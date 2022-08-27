@@ -19,7 +19,9 @@ List of 500+ geospatial companies & interactive map
 
 - Office size (S < 20, M 20-100, L > 100) is an estimate (LinkendIn, industry knowledge, job ads etc.)
 - Relevant (B)ranch offices (non-sales office with sufficient amount of geo-related jobs) are listed separately.
-- Focus on commercial companies, currently no research institues included.
+- Focus on commercial companies, currently no research institues included. 
+
+Thank you to the many [contributors](https://github.com/chrieke/awesome-geospatial-companies/blob/master/CONTRIBUTING.md)!
 
 <br>
 
