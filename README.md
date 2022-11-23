@@ -502,11 +502,10 @@ Thank you to the many [contributors](https://github.com/chrieke/awesome-geospati
 ## Norway :norway:
 | Company                             | Office Size | Focus                                                     | Address (Click)                                                                                    |
 |:------------------------------------|:------------|:----------------------------------------------------------|:---------------------------------------------------------------------------------------------------|
-| [Unacast](https://www.unacast.com/) | M           | :globe_with_meridians: International Location Data vendor | [:round_pushpin: Oslo](https://www.google.com/maps/search/Karl+Johans+Gate+21,+0159+Oslo,+Norway+) | 
 | [Geodata](https://geodata.no/) | M (B)       | :globe_with_meridians: GIS consultancy , ESRI distributor | [:round_pushpin: Oslo](https://goo.gl/maps/SjFrxpVRUpuo3jxR7)                                      | 
 | [Geodata](https://geodata.no/) | M (B)       | :globe_with_meridians: GIS consultancy , ESRI distributor | [:round_pushpin: Stavanger](https://g.page/geodata-stavanger?share)                                | 
 | [Geodata](https://geodata.no/) | M (B)       | :globe_with_meridians: GIS consultancy , ESRI distributor | [:round_pushpin: Trondheim](https://goo.gl/maps/rXkx3M3FC3V9jzLu7)                                 | 
-
+| [Unacast](https://www.unacast.com/) | M           | :globe_with_meridians: International Location Data vendor | [:round_pushpin: Oslo](https://www.google.com/maps/search/Karl+Johans+Gate+21,+0159+Oslo,+Norway+) |
 
 ## Pakistan :pakistan:
 | Company                       | Office Size   | Focus                                                  | Address (Click)                                                                                               |
@@ -822,6 +821,7 @@ Thank you to the many [contributors](https://github.com/chrieke/awesome-geospati
 | [Farmshots](http://farmshots.com)                           | S           | :seedling: EO crop insights platform                                                             | [:round_pushpin: Raleigh](https://www.google.com/maps/search/Durham,+North+Carolina.+31010+Glenwood+Avenue.+Raleigh,+NC+27612,+USA+) |
 | [Felt](https://felt.com/)                                   | M           | :world_map: Custom web maps                                                                      | [:round_pushpin: Oakland](https://www.google.com/maps/search/350+30th+St,+Oakland,+CA+94609,+USA+)                                   |
 | [Flo Analytics](https://www.flo-analytics.com/)             | M           | :globe_with_meridians: GIS Consultancy, Local Gov, School Districts                              | [:round_pushpin: Portland](https://www.google.com/maps/search/3140+NE+Broadway+St,+Portland,+OR+97232,+USA+)                         |
+| [FOAM](https://foam.space)                                  | S           | :world_map: Blockchain-enabled location services                                                 | [:round_pushpin: New York City](https://goo.gl/maps/1rdQV4KWeN3xN3oX9)               |
 | [Fraym](http://fraym.io)                                    | S           | :globe_with_meridians: Spatial buiseness intelligence, focus Africa                              | [:round_pushpin: McLean](https://www.google.com/maps/search/7900+Westpark+Dr.,+McLean,+VA+22102,+USA+)                               |
 | [Fruition Science](https://fruitionsciences.com/en/home)    | S (H)       | :seedling: Vineyard monitoring                                                                   | [:round_pushpin: Oakland](https://www.google.com/maps/search/5235+Shattuck+Avenue,+Oakland,+CA+94609,+USA+)                          |
 | [Genscape](https://www.genscape.com)                        | M (B)       | :earth_americas: EO: Oil storage and infrastructure monitoring                                   | [:round_pushpin: Boston](https://www.google.com/maps/search/501+Boylston+St.,+Boston,+MA+02116,+USA+)                                |
@@ -936,7 +936,6 @@ Thank you to the many [contributors](https://github.com/chrieke/awesome-geospati
 | [Ursa Space](http://ursaspace.com)                          | M           | :earth_americas: EO: Oil storage and infrastructure monitoring                                   | [:round_pushpin: Ithaca](https://www.google.com/maps/search/314+E+State+St,+Ithaca,+NY+14850,+USA+)                                  |
 | [WhiteStar Corporation](https://www.whitestar.com)          | S           | :globe_with_meridians: Landmapping software, Cartography / GIS                                   | [:round_pushpin: Lakewood](https://www.google.com/maps/search/777+South+Wadsworth+Blvd,+Lakewood,+CO+80226,+USA+)                    |
 | [Woolpert](https://woolpert.com)                            | L (H)       | :airplane: Aerial image & LiDAR acquistion, geospatial analysis                                  | [:round_pushpin: Dayton](https://www.google.com/maps/search/4454+Idea+Center+Boulevard,+Dayton,+OH+45430,+USA+)                      | 
-| [FOAM](https://foam.space)                                  | S           | :world_map: Blockchain-enabled location services                                                 | [:round_pushpin: New York City](https://goo.gl/maps/1rdQV4KWeN3xN3oX9)               | 
 
 
 ## Ukraine :ukraine:
