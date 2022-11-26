@@ -10,7 +10,6 @@ from typing import List
 from urllib.request import Request, urlopen
 from urllib.error import URLError
 import argparse
-import sys
 
 import pandas as pd
 from tqdm import tqdm
@@ -70,6 +69,7 @@ def reformat(df):
 
 pdf = pd.read_csv("awesome-geospatial-companies - Companies A-Z.csv")
 # display(pdf.head(1))
+print(f"Unique companies: {pdf['Focus'].nunique()}")
 
 if pdf.loc[:, pdf.columns != 'Notes (ex-name)'].isnull().values.any():
     print(pdf[pdf.loc[:, pdf.columns != 'Notes (ex-name)'].isnull().any(axis=1)])
