@@ -58,11 +58,11 @@ def reformat(df):
     df["Address"] = df.apply(
         lambda x: "".join(y + "+" for y in x["Address"].split(" ")), axis=1
     )
-    df["Address (Click)"] = df.apply(
+    df["Address"] = df.apply(
         lambda x: f"[:round_pushpin: {x['City']}]({gmaps_url}{x['Address']})", axis=1
     )
 
-    df = df.drop(["Website", "Category", "City", "Address", "Notes (ex-name)"], axis=1)
+    df = df.drop(["Website", "Category", "City", "Notes (ex-name)"], axis=1)
 
     return df
 
@@ -112,7 +112,7 @@ for country in sorted(pdf.Country.unique()):
 
     markdown_string = (
         markdown_string
-        + f"## {country} :{flag_emoji}: \n"
+        + f"## {country} :{flag_emoji}: *{df_country.shape[0]}* \n"
         + f"{df_country.to_markdown(index=False)} \n\n "
     )
 
