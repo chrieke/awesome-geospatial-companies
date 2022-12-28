@@ -106,13 +106,13 @@ for country in sorted(pdf.Country.unique()):
 
     repo_link = "https://github.com/chrieke/awesome-geospatial-companies#"
     chapter_link = (
-        f"[{country}]({repo_link}{country.lower().replace(' ', '-')}-{flag_emoji})"
+        f"[:{flag_emoji}: {country}]({repo_link}{country.lower().replace(' ', '-')}-{flag_emoji})"
     )
     chapter_string = chapter_string + f"{chapter_link} - "
 
     markdown_string = (
         markdown_string
-        + f"## {country} :{flag_emoji}: *{df_country.shape[0]}* \n"
+        + f"## :{flag_emoji}: {country} *({df_country.shape[0]})* \n"
         + f"{df_country.to_markdown(index=False)} \n\n "
     )
 
