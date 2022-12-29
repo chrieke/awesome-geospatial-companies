@@ -27,8 +27,8 @@ Thank you to the many [contributors](https://github.com/chrieke/awesome-geospati
 
 [:argentina: Argentina](https://github.com/chrieke/awesome-geospatial-companies#argentina-argentina) - [:armenia: Armenia](https://github.com/chrieke/awesome-geospatial-companies#armenia-armenia) - [:australia: Australia](https://github.com/chrieke/awesome-geospatial-companies#australia-australia) - [:austria: Austria](https://github.com/chrieke/awesome-geospatial-companies#austria-austria) - [:azerbaijan: Azerbaijan](https://github.com/chrieke/awesome-geospatial-companies#azerbaijan-azerbaijan) - [:belgium: Belgium](https://github.com/chrieke/awesome-geospatial-companies#belgium-belgium) - [:brazil: Brazil](https://github.com/chrieke/awesome-geospatial-companies#brazil-brazil) - [:bulgaria: Bulgaria](https://github.com/chrieke/awesome-geospatial-companies#bulgaria-bulgaria) - [:canada: Canada](https://github.com/chrieke/awesome-geospatial-companies#canada-canada) - [:chile: Chile](https://github.com/chrieke/awesome-geospatial-companies#chile-chile) - [:cn: China](https://github.com/chrieke/awesome-geospatial-companies#china-cn) - [:colombia: Colombia](https://github.com/chrieke/awesome-geospatial-companies#colombia-colombia) - [:costa_rica: Costa Rica](https://github.com/chrieke/awesome-geospatial-companies#costa-rica-costa_rica) - [:croatia: Croatia](https://github.com/chrieke/awesome-geospatial-companies#croatia-croatia) - [:cyprus: Cyprus](https://github.com/chrieke/awesome-geospatial-companies#cyprus-cyprus) - [:czech_republic: Czech republic](https://github.com/chrieke/awesome-geospatial-companies#czech-republic-czech_republic) - [:denmark: Denmark](https://github.com/chrieke/awesome-geospatial-companies#denmark-denmark) - [:egypt: Egypt](https://github.com/chrieke/awesome-geospatial-companies#egypt-egypt) - [:estonia: Estonia](https://github.com/chrieke/awesome-geospatial-companies#estonia-estonia) - [:finland: Finland](https://github.com/chrieke/awesome-geospatial-companies#finland-finland) - [:fr: France](https://github.com/chrieke/awesome-geospatial-companies#france-fr) - [:de: Germany](https://github.com/chrieke/awesome-geospatial-companies#germany-de) - [:greece: Greece](https://github.com/chrieke/awesome-geospatial-companies#greece-greece) - [:guatemala: Guatemala](https://github.com/chrieke/awesome-geospatial-companies#guatemala-guatemala) - [:hungary: Hungary](https://github.com/chrieke/awesome-geospatial-companies#hungary-hungary) - [:india: India](https://github.com/chrieke/awesome-geospatial-companies#india-india) - [:indonesia: Indonesia](https://github.com/chrieke/awesome-geospatial-companies#indonesia-indonesia) - [:ireland: Ireland](https://github.com/chrieke/awesome-geospatial-companies#ireland-ireland) - [:israel: Israel](https://github.com/chrieke/awesome-geospatial-companies#israel-israel) - [:it: Italy](https://github.com/chrieke/awesome-geospatial-companies#italy-it) - [:jp: Japan](https://github.com/chrieke/awesome-geospatial-companies#japan-jp) - [:kenya: Kenya](https://github.com/chrieke/awesome-geospatial-companies#kenya-kenya) - [:luxembourg: Luxembourg](https://github.com/chrieke/awesome-geospatial-companies#luxembourg-luxembourg) - [:malaysia: Malaysia](https://github.com/chrieke/awesome-geospatial-companies#malaysia-malaysia) - [:mexico: Mexico](https://github.com/chrieke/awesome-geospatial-companies#mexico-mexico) - [:netherlands: Netherlands](https://github.com/chrieke/awesome-geospatial-companies#netherlands-netherlands) - [:new_zealand: New Zealand](https://github.com/chrieke/awesome-geospatial-companies#new-zealand-new_zealand) - [:norway: Norway](https://github.com/chrieke/awesome-geospatial-companies#norway-norway) - [:pakistan: Pakistan](https://github.com/chrieke/awesome-geospatial-companies#pakistan-pakistan) - [:peru: Peru](https://github.com/chrieke/awesome-geospatial-companies#peru-peru) - [:poland: Poland](https://github.com/chrieke/awesome-geospatial-companies#poland-poland) - [:portugal: Portugal](https://github.com/chrieke/awesome-geospatial-companies#portugal-portugal) - [:romania: Romania](https://github.com/chrieke/awesome-geospatial-companies#romania-romania) - [:ru: Russia](https://github.com/chrieke/awesome-geospatial-companies#russia-ru) - [:saudi_arabia: Saudi Arabia](https://github.com/chrieke/awesome-geospatial-companies#saudi-arabia-saudi_arabia) - [:serbia: Serbia](https://github.com/chrieke/awesome-geospatial-companies#serbia-serbia) - [:singapore: Singapore](https://github.com/chrieke/awesome-geospatial-companies#singapore-singapore) - [:slovakia: Slovakia](https://github.com/chrieke/awesome-geospatial-companies#slovakia-slovakia) - [:slovenia: Slovenia](https://github.com/chrieke/awesome-geospatial-companies#slovenia-slovenia) - [:south_africa: South Africa](https://github.com/chrieke/awesome-geospatial-companies#south-africa-south_africa) - [:kr: South Korea](https://github.com/chrieke/awesome-geospatial-companies#south-korea-kr) - [:es: Spain](https://github.com/chrieke/awesome-geospatial-companies#spain-es) - [:sri_lanka: Sri Lanka](https://github.com/chrieke/awesome-geospatial-companies#sri-lanka-sri_lanka) - [:sweden: Sweden](https://github.com/chrieke/awesome-geospatial-companies#sweden-sweden) - [:switzerland: Switzerland](https://github.com/chrieke/awesome-geospatial-companies#switzerland-switzerland) - [:taiwan: Taiwan](https://github.com/chrieke/awesome-geospatial-companies#taiwan-taiwan) - [:tanzania: Tanzania](https://github.com/chrieke/awesome-geospatial-companies#tanzania-tanzania) - [:thailand: Thailand](https://github.com/chrieke/awesome-geospatial-companies#thailand-thailand) - [:tr: Turkey](https://github.com/chrieke/awesome-geospatial-companies#turkey-tr) - [:united_arab_emirates: UAE](https://github.com/chrieke/awesome-geospatial-companies#uae-united_arab_emirates) - [:uk: UK](https://github.com/chrieke/awesome-geospatial-companies#uk-uk) - [:us: USA](https://github.com/chrieke/awesome-geospatial-companies#usa-us) - [:ukraine: Ukraine](https://github.com/chrieke/awesome-geospatial-companies#ukraine-ukraine) - [:vietnam: Vietnam](https://github.com/chrieke/awesome-geospatial-companies#vietnam-vietnam) -
 
-## :argentina: Argentina *(5)*
-| Company                                           | Office Size   | Focus                                                                        | Address                                                                                                                                         |
+## :argentina: Argentina
+| Company (5)                                       | Office Size   | Focus                                                                        | Address                                                                                                                                         |
 |:--------------------------------------------------|:--------------|:-----------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Aeroterra](https://www.aeroterra.com/es-ar/home) | M             | :globe_with_meridians: ESRI Reseller & consultancy Argentinia                | [:round_pushpin: Buenos Aires](https://www.google.com/maps/search/Calle+Carlos+M.+Della+Paolera+218,+Retiro,+Buenos+Aires,+Argentina+)          |
 | [Dymaxion Labs](http://dymaxionlabs.com)          | S             | :earth_americas: Monitoring drivers of economic development in Latin America | [:round_pushpin: Buenos Aires](https://www.google.com/maps/search/Castillo+1366+1414+Buenos+Aires,+Ciudad+Autónoma+de+Buenos+Aires,+Argentina+) |
@@ -36,14 +36,14 @@ Thank you to the many [contributors](https://github.com/chrieke/awesome-geospati
 | [Satellogic](https://www.satellogic.com)          | M (H)         | :artificial_satellite: Cubesat 1m optical or 30m hyperspectral               | [:round_pushpin: Ciudad](https://www.google.com/maps/search/Av.+Raúl+Scalabrini+Ortíz+3306,+C1425DCO+CABA,+Argentina+)                          |
 | [SpaceSUR](https://www.spacesur.com)              | M (H)         | :earth_americas: EO: All-purpose, InSAR, Geospatial Analytics                | [:round_pushpin: Buenos Aires](https://www.google.com/maps/search/Av.+Rivadavia+611,+Piso+11+-+C1002AAE,+Ciudad+de+Buenos+Aires,+Argentina+)    | 
 
-## :armenia: Armenia *(2)*
-| Company                                  | Office Size   | Focus                                   | Address                                                                                                                  |
+## :armenia: Armenia
+| Company (2)                              | Office Size   | Focus                                   | Address                                                                                                                  |
 |:-----------------------------------------|:--------------|:----------------------------------------|:-------------------------------------------------------------------------------------------------------------------------|
 | [Geovibe](https://geo-vibe.com/)         | S             | :globe_with_meridians: GIS: All-purpose | [:round_pushpin: Yerevan](https://www.google.com/maps/search/41+Arshakunyats+Avenue,+Yerevan+0026,+Republic+of+Armenia+) |
 | [Intelinair](https://www.intelinair.com) | S (H)         | :seedling: UAV crop insights            | [:round_pushpin: Yerevan](https://www.google.com/maps/search/2/2+Melik+Adamyan+Street,+Yerevan,+Armenia+)                | 
 
-## :australia: Australia *(53)*
-| Company                                                                       | Office Size   | Focus                                                                                      | Address                                                                                                                                           |
+## :australia: Australia
+| Company (53)                                                                  | Office Size   | Focus                                                                                      | Address                                                                                                                                           |
 |:------------------------------------------------------------------------------|:--------------|:-------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------|
 | [360Environmental](https://360environmental.com.au/)                          | M             | :globe_with_meridians: Environmental Consultants & Services                                | [:round_pushpin: West Leederville](https://www.google.com/maps/search/10+Bermondsey+Street,+West+Leederville,+Western+Australia+6007,+Australia+) |
 | [AAM Group](http://www.aamgroup.com)                                          | M (B)         | :airplane: Aerial image & LiDAR acquisition, 3D GIS                                        | [:round_pushpin: Sydney](https://www.google.com/maps/search/33+Waterloo+Road,+Macquarie+Park+NSW+2113,+Australia+)                                |
@@ -99,8 +99,8 @@ Thank you to the many [contributors](https://github.com/chrieke/awesome-geospati
 | [Sprial Blue](https://spiralblue.space/)                                      | S             | :earth_americas: EO satellite edge computing                                               | [:round_pushpin: Sydney](https://www.google.com/maps/search/1/39+Wellington+St,+Chippendale+NSW+2008,+Australia+)                                 |
 | [The Yield](https://www.theyield.com)                                         | M             | :globe_with_meridians: Agriculture and aquaculture insights platform                       | [:round_pushpin: Sydney](https://www.google.com/maps/search/Holt+Street+50,+Surry+Hills,+Sydney,+NSW+2010,+Australia+)                            | 
 
-## :austria: Austria *(10)*
-| Company                                                           | Office Size   | Focus                                                                              | Address                                                                                                                 |
+## :austria: Austria
+| Company (10)                                                      | Office Size   | Focus                                                                              | Address                                                                                                                 |
 |:------------------------------------------------------------------|:--------------|:-----------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------|
 | [Airborne Technologies](http://www.airbornetechnologies.at)       | M             | :airplane: Aerial multisensor acquisitions, analysis                               | [:round_pushpin: Wien](https://www.google.com/maps/search/Viktor+Lang-Straße+8,+2700+Wiener+Neustadt,+Austria+)         |
 | [EOX IT Services](https://eox.at)                                 | S             | :earth_americas: "Sentinel 2 cloudless", EO data infrastructure                    | [:round_pushpin: Wien](https://www.google.com/maps/search/Thurngasse+8,+1090+Wien,+Austria+)                            |
@@ -113,14 +113,14 @@ Thank you to the many [contributors](https://github.com/chrieke/awesome-geospati
 | [Umweltdata](https://umweltdata.at/)                              | S             | :globe_with_meridians: LIDAR and Drones in Forest Inventory                        | [:round_pushpin: Tullnerbach](https://www.google.com/maps/search/Knabstraße+7/4,+3013+Tullnerbach,+Austria+)            |
 | [Vertigis](https://www.vertigis.com/)                             | M (B)         | :globe_with_meridians: GIS: All-purpose                                            | [:round_pushpin: Innsbruck](https://www.google.com/maps/search/Wilhelm-Greil-Straße+17,+A-6020+Innsbruck,+Austria+)     | 
 
-## :azerbaijan: Azerbaijan *(2)*
-| Company                                            | Office Size   | Focus                                                                         | Address                                                                                                                               |
+## :azerbaijan: Azerbaijan
+| Company (2)                                        | Office Size   | Focus                                                                         | Address                                                                                                                               |
 |:---------------------------------------------------|:--------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------|
 | [Caspian Geomatics](https://caspiangeomatics.com/) | S             | :globe_with_meridians: Geomatics, Hydrography survey & environmental services | [:round_pushpin: Baku](https://www.google.com/maps/search/Ahmad+Rajabli+street+1/47,+Tech+Plaza,+Baku,+Narimanov+AZ1075,+Azerbaijan+) |
 | [Datum](https://datum.az/)                         | M             | :globe_with_meridians: GIS + EO: All-purpose                                  | [:round_pushpin: Baku](https://www.google.com/maps/search/Afiyeddin+Jalilov+Street+20,+9+floor,+Baku,+AZ+1025,+Azerbaijan+)           | 
 
-## :belgium: Belgium *(11)*
-| Company                                                       | Office Size   | Focus                                                                             | Address                                                                                                                         |
+## :belgium: Belgium
+| Company (11)                                                  | Office Size   | Focus                                                                             | Address                                                                                                                         |
 |:--------------------------------------------------------------|:--------------|:----------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------|
 | [Aerodata International Surveys](http://aerodata-surveys.com) | M (H)         | :airplane: Airborne surveying and mapping, analysis                               | [:round_pushpin: Antwerpen](https://www.google.com/maps/search/Luchthavenlei+7a,+2100+Deurne,+Belgium+)                         |
 | [Aerospacelab](https://www.aerospacelab.be/)                  | L             | :artificial_satellite: Satellite manufacturer and geospatial insights             | [:round_pushpin: Mont-Saint-Guibert](https://www.google.com/maps/search/Rue+André+Dumont+9,+1435,+Mont-Saint-Guibert,+Belgium+) |
@@ -134,8 +134,8 @@ Thank you to the many [contributors](https://github.com/chrieke/awesome-geospati
 | [TomTom](https://www.tomtom.com)                              | L (B)         | :globe_with_meridians: GIS for navigation                                         | [:round_pushpin: Housse](https://www.google.com/maps/search/Rue+Richassa+32,+4671+Housse,+Belgium+)                             |
 | [Vito Remote Sensing](https://remotesensing.vito.be/)         | M             | :earth_americas: Large scale EO image processing, UAV image acquisition, analysis | [:round_pushpin: Mol](https://www.google.com/maps/search/Boeretang+200,+2400+Mol,+Belgium+)                                     | 
 
-## :brazil: Brazil *(12)*
-| Company                                                                | Office Size   | Focus                                                                                             | Address                                                                                                                                              |
+## :brazil: Brazil
+| Company (12)                                                           | Office Size   | Focus                                                                                             | Address                                                                                                                                              |
 |:-----------------------------------------------------------------------|:--------------|:--------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Agrosatellite](https://agrosatelite.com.br)                           | M             | :earth_americas: EO for agriculture, GIS development                                              | [:round_pushpin: Florianópolis](https://www.google.com/maps/search/SC-401+Highway+8600,+Santo+Antonio+de+Lisboa,+Florianópolis,+Brazil+)             |
 | [Canopy Remote Sensing Solutions](http://www.canopyrss.tech/)          | S             | :earth_americas: Forest mapping, inventory, and monitoring                                        | [:round_pushpin: Florianópolis](https://www.google.com/maps/search/4150+Rod.+José+Carlos+Daux,+Florianópolis,+SC+88032-005,+Brazil+)                 |
@@ -150,14 +150,14 @@ Thank you to the many [contributors](https://github.com/chrieke/awesome-geospati
 | [TerraGIS](https://www.terragis.com.br/)                               | S             | :globe_with_meridians: GIS: All-purpose                                                           | [:round_pushpin: Rio de Janeiro](https://www.google.com/maps/search/Rio+de+Janeiro+-+RJ+-+Brazil+)                                                   |
 | [Visiona Tecnologia Espacial S.A.](https://www.visionaespacial.com.br) | M             | :earth_americas: Satellite & EO coordination with defence focus, EO image reseller                | [:round_pushpin: São Paulo](https://www.google.com/maps/search/500+Distrito+de+Eugênio+de+Melo,+São+José+dos+Campos,+São+Paulo,+Brazil+)             | 
 
-## :bulgaria: Bulgaria *(2)*
-| Company                                | Office Size   | Focus                                                               | Address                                                                                                                           |
+## :bulgaria: Bulgaria
+| Company (2)                            | Office Size   | Focus                                                               | Address                                                                                                                           |
 |:---------------------------------------|:--------------|:--------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------|
 | [ESRI](http://esribulgaria.com)        | M (B)         | :globe_with_meridians: ArcGIS software, GIS                         | [:round_pushpin: Hladilnika](https://www.google.com/maps/search/bul.+"Nikola+Y.+Vaptsarov"+35,+1407+Hladilnika,+Sofia,+Bulgaria+) |
 | [Eurosense](http://www.eurosense.com/) | S (B)         | :airplane: Aerial imagery & LiDAR acquisition, all-purpose analysis | [:round_pushpin: Hladilnika](https://www.google.com/maps/search/bul.+"Nikola+Y.+Vaptsarov"+35,+1407+Hladilnika,+Sofia,+Bulgaria+) | 
 
-## :canada: Canada *(34)*
-| Company                                                       | Office Size   | Focus                                                                                | Address                                                                                                                                                      |
+## :canada: Canada
+| Company (34)                                                  | Office Size   | Focus                                                                                | Address                                                                                                                                                      |
 |:--------------------------------------------------------------|:--------------|:-------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Auracle Remote Sensing](http://www.auracleremotesensing.com) | S             | :earth_americas: EO for energy deposit modeling                                      | [:round_pushpin: Vancouver](https://www.google.com/maps/search/1435+West+Georgia+Street,+Vancouver,+BC,+V6E+4A2,+Canada+)                                    |
 | [C-Core](https://www.c-core.ca)                               | S (B)         | :earth_americas: EO: All-purpose                                                     | [:round_pushpin: Ottawa](https://www.google.com/maps/search/4043+Carling+Avenue,+Ottawa,+ON,+Canada+)                                                        |
@@ -194,45 +194,45 @@ Thank you to the many [contributors](https://github.com/chrieke/awesome-geospati
 | [Vineview](https://vineview.com/)                             | M             | :airplane: Vineyard insights                                                         | [:round_pushpin: Bedford](https://www.google.com/maps/search/1595+Bedford+Hwy,+Bedford,+NS,+Canada+)                                                         |
 | [Wyvern](http://www.wyvern.space/)                            | M             | :artificial_satellite: Hyperspectral satellite constellation                         | [:round_pushpin: Edmonton](https://www.google.com/maps/search/11135+83+Ave+NW,+Edmonton,+Alberta,+Canada+)                                                   | 
 
-## :chile: Chile *(4)*
-| Company                                            | Office Size   | Focus                                               | Address                                                                                                                                                   |
+## :chile: Chile
+| Company (4)                                        | Office Size   | Focus                                               | Address                                                                                                                                                   |
 |:---------------------------------------------------|:--------------|:----------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Agrospace](https://agrospace.cl/)                 | S             | :globe_with_meridians: EO monitoring & reports      | [:round_pushpin: Santiago](https://www.google.com/maps/search/Santiago,+Metropolitana+Region,+Chile+)                                                     |
 | [ESRI](http://www.esri.cl)                         | M (B)         | :globe_with_meridians: ArcGIS software, GIS         | [:round_pushpin: Las Condes-Santiago-Chile](https://www.google.com/maps/search/Av.+Apoquindo+6550,+piso+7,+Las+Condes-Santiago-Chile,+Chile+)             |
 | [Geosoluciones](http://www.geosoluciones.cl)       | S             | :earth_americas: EO: All-purpose                    | [:round_pushpin: Santiago de Chile](https://www.google.com/maps/search/Plaza+Pedro+de+Valdivia+1783,+Oficina+188,+Providencia,+Santiago+de+Chile,+Chile+) |
 | [Terra Remote Sensing](http://www.terraremote.com) | S (B)         | :earth_americas: EO: All-purpose, LiDAR acquisition | [:round_pushpin: Valparaíso](https://www.google.com/maps/search/Av+Tupungato+3850,+Placilla,+Valparaíso,+Chile+)                                          | 
 
-## :cn: China *(4)*
-| Company                                   | Office Size   | Focus                                                    | Address                                                                                                                            |
+## :cn: China
+| Company (4)                               | Office Size   | Focus                                                    | Address                                                                                                                            |
 |:------------------------------------------|:--------------|:---------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|
 | [ESRI](http://www.esrichina.com.cn)       | L (B)         | :globe_with_meridians: ArcGIS software, GIS              | [:round_pushpin: Beijing](https://www.google.com/maps/search/No.1+Xibahe+South+Road,+Chaoyang+District,+Beijing,+100028,+China+)   |
 | [ESRI](http://www.esrichina.hk)           | M (B)         | :globe_with_meridians: ArcGIS software, GIS              | [:round_pushpin: Cheung Sha Wan](https://www.google.com/maps/search/9/F,+CEO+Tower,+77+Wing+Hong+Street,+Cheung+Sha+Wan,+Kowloon+) |
 | [Spacewill](http://en.spacewillinfo.com/) | S             | :earth_americas: Superview-1 & GF satellites reseller    | [:round_pushpin: Beijing](https://www.google.com/maps/search/11+Changchunqiao+Road,+Beijing+100089,+China+)                        |
 | [TerraQuanta](https://www.terraqt.com)    | S             | :earth_americas: EO: All-purpose, focus on AI & big data | [:round_pushpin: Beijing](https://www.google.com/maps/search/Tower+2,+Wangjing+SOHO,+Chaoyang+District,+Beijing,+China+)           | 
 
-## :colombia: Colombia *(2)*
-| Company                      | Office Size   | Focus                                       | Address                                                                                                               |
+## :colombia: Colombia
+| Company (2)                  | Office Size   | Focus                                       | Address                                                                                                               |
 |:-----------------------------|:--------------|:--------------------------------------------|:----------------------------------------------------------------------------------------------------------------------|
 | [ESRI](http://www.esri.co)   | L (B)         | :globe_with_meridians: ArcGIS software, GIS | [:round_pushpin: Bogotá](https://www.google.com/maps/search/Bogotá,+Cundinamarca,+Colombia+)                          |
 | [Gkudos](https://gkudos.com) | S             | :world_map: Webmapping                      | [:round_pushpin: Bogotá](https://www.google.com/maps/search/Bogotá+DC,+Calle+53A+Bis+No+22-16+Oficina+402,+Colombia+) | 
 
-## :costa_rica: Costa Rica *(1)*
-| Company                                              | Office Size   | Focus                                                                   | Address                                                                                                                      |
+## :costa_rica: Costa Rica
+| Company (1)                                          | Office Size   | Focus                                                                   | Address                                                                                                                      |
 |:-----------------------------------------------------|:--------------|:------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|
 | [Geotecnologias S.A.](http://www.geotecnologias.com) | M (H)         | :globe_with_meridians: Cadastre, GIS consulting, ESRI & Trimble partner | [:round_pushpin: San José,](https://www.google.com/maps/search/Calle+Masis+Mercedes+San+José+CR+2604,+San+José,+Costa+Rica+) | 
 
-## :croatia: Croatia *(1)*
-| Company                              | Office Size   | Focus                                     | Address                                                                                            |
+## :croatia: Croatia
+| Company (1)                          | Office Size   | Focus                                     | Address                                                                                            |
 |:-------------------------------------|:--------------|:------------------------------------------|:---------------------------------------------------------------------------------------------------|
 | [GISCloud](https://www.giscloud.com) | S             | :world_map: Colaborative Mapping platform | [:round_pushpin: Zagreb](https://www.google.com/maps/search/Jurišićeva+9,+10000,+Zagreb,+Croatia+) | 
 
-## :cyprus: Cyprus *(1)*
-| Company                                     | Office Size   | Focus                               | Address                                                                                                       |
+## :cyprus: Cyprus
+| Company (1)                                 | Office Size   | Focus                               | Address                                                                                                       |
 |:--------------------------------------------|:--------------|:------------------------------------|:--------------------------------------------------------------------------------------------------------------|
 | [Geo Imaging](http://www.geoimaging.com.cy) | S             | :globe_with_meridians: GIS services | [:round_pushpin: Nicosia](https://www.google.com/maps/search/Perikleous+47,+Strovolos,+2021+Nicosia,+Cyprus+) | 
 
-## :czech_republic: Czech republic *(5)*
-| Company                                              | Office Size   | Focus                                                                                    | Address                                                                                                            |
+## :czech_republic: Czech republic
+| Company (5)                                          | Office Size   | Focus                                                                                    | Address                                                                                                            |
 |:-----------------------------------------------------|:--------------|:-----------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------|
 | [Gisat](https://www.gisat.cz/)                       | M             | :earth_americas: EO: All-purpose                                                         | [:round_pushpin: Prague](https://www.google.com/maps/search/Milady+Horakove+57,+170+00+Praha+7,+Czech+Republic+)   |
 | [Maptiler](https://www.maptiler.com/)                | M             | :world_map: Maps, documentation, code samples, and developer tools for web & mobile      | [:round_pushpin: Brno](https://www.google.com/maps/search/Tišnovská+137,+614+00+Brno,+Czech+Republic+)             |
@@ -240,26 +240,26 @@ Thank you to the many [contributors](https://github.com/chrieke/awesome-geospati
 | [T-Mapy](https://www.tmapy.com)                      | M             | :globe_with_meridians: Spatial web asseg management, Analytic maps, Smart city solutions | [:round_pushpin: Hradec](https://www.google.com/maps/search/Spitalska+150,+500+03+Hradec+Kralove,+Czech+Republic+) |
 | [World from Space](https://worldfrom.space/en/home/) | S             | :earth_americas: EO: Agriculture & urban                                                 | [:round_pushpin: Brno](https://www.google.com/maps/search/Technická+23,+61600+Královo+Pole,+Czechia+)              | 
 
-## :denmark: Denmark *(3)*
-| Company                                      | Office Size   | Focus                                                                                      | Address                                                                                                    |
+## :denmark: Denmark
+| Company (3)                                  | Office Size   | Focus                                                                                      | Address                                                                                                    |
 |:---------------------------------------------|:--------------|:-------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------|
 | [DHI Gras](http://www.dhi-gras.com)          | M             | :earth_americas: EO: environmental assessment, water resources and marine monitoring       | [:round_pushpin: Horlsholm](https://www.google.com/maps/search/AGERN+ALLÉ+5+·+DK-2970+Horlsholm,+Denmark+) |
 | [Fieldsense](https://site.fieldsenseapp.com) | M             | :seedling: Crop insights platform                                                          | [:round_pushpin: Aarhus](https://www.google.com/maps/search/Åbogade+34,+8200+Aarhus,+Denmark+)             |
 | [LIFA A/S](https://www.lifa.dk)              | M             | :globe_with_meridians: Geospatial software development & datadistribution, GIS consultancy | [:round_pushpin: Odense](https://www.google.com/maps/search/Lucernemarken+1,+5260+Odense+S,+Denmark+)      | 
 
-## :egypt: Egypt *(1)*
-| Company                        | Office Size   | Focus                                       | Address                                                                                    |
+## :egypt: Egypt
+| Company (1)                    | Office Size   | Focus                                       | Address                                                                                    |
 |:-------------------------------|:--------------|:--------------------------------------------|:-------------------------------------------------------------------------------------------|
 | [ESRI](http://www.esrinea.com) | L (B)         | :globe_with_meridians: ArcGIS software, GIS | [:round_pushpin: Egypt](https://www.google.com/maps/search/Ahmed+Kamel+St.,+Cairo,+Egypt+) | 
 
-## :estonia: Estonia *(2)*
-| Company                                       | Office Size   | Focus                                                                                               | Address                                                                                                                 |
+## :estonia: Estonia
+| Company (2)                                   | Office Size   | Focus                                                                                               | Address                                                                                                                 |
 |:----------------------------------------------|:--------------|:----------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------|
 | [Eyevi Technologies](https://www.eyevi.tech/) | M             | :globe_with_meridians: AI-powered platform for geospatial data production, on-demand mobile mapping | [:round_pushpin: Estonia](https://www.google.com/maps/search/Friedrich+Reinhold+Kreutzwaldi+19g,+51014+Tartu,+Estonia+) |
 | [Regio](http://www.regio.ee/)                 | M             | :globe_with_meridians: GIS development, geospatial data                                             | [:round_pushpin: Tartu](https://www.google.com/maps/search/Regio,+Riia+35+Tartu,+50410,+Estonia+)                       | 
 
-## :finland: Finland *(6)*
-| Company                                  | Office Size   | Focus                                                                                        | Address                                                                                                     |
+## :finland: Finland
+| Company (6)                              | Office Size   | Focus                                                                                        | Address                                                                                                     |
 |:-----------------------------------------|:--------------|:---------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------|
 | [Arbonaut](https://www.arbonaut.com/en/) | M             | :globe_with_meridians: GIS development for forest inventory and natural resource management  | [:round_pushpin: Joensuu](https://www.google.com/maps/search/Kaislakatu+2,+80130+Joensuu,+Finland+)         |
 | [ESRI](http://www.esri.fi)               | M (B)         | :globe_with_meridians: ArcGIS software, GIS                                                  | [:round_pushpin: Espoo](https://www.google.com/maps/search/Bertel+Jungin+aukio+3,+FI-02600+Espoo,+Finland+) |
@@ -268,8 +268,8 @@ Thank you to the many [contributors](https://github.com/chrieke/awesome-geospati
 | [Maptionaire](https://maptionnaire.com)  | S             | :world_map: Resident engagement & map insights for urban planning                            | [:round_pushpin: Helsinki](https://www.google.com/maps/search/Kanavaranta+7,+00160+Helsinki,+Finland+)      |
 | [Sharpershape](https://sharpershape.com) | S (B)         | :airplane: UAV automated utility inspections                                                 | [:round_pushpin: Espoo](https://www.google.com/maps/search/Lintuvaarantie+2,+02650+Espoo,+Finland+)         | 
 
-## :fr: France *(26)*
-| Company                                                          | Office Size   | Focus                                                                                    | Address                                                                                                                                 |
+## :fr: France
+| Company (26)                                                     | Office Size   | Focus                                                                                    | Address                                                                                                                                 |
 |:-----------------------------------------------------------------|:--------------|:-----------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 | [ACRI-ST](http://www.acri-st.fr)                                 | M             | :earth_americas: EO mission simulation, environmental monitoring                         | [:round_pushpin: Garbejaire](https://www.google.com/maps/search/260+Route+du+Pin+Montard,+06904+Sophia-Antipolis,+France+)              |
 | [Airbus Defence and Space](http://www.intelligence-airbusds.com) | L (B)         | :earth_americas: EO: All-purpose, Government/Defence intelligence                        | [:round_pushpin: Toulouse](https://www.google.com/maps/search/31,+Avenue+des+Cosmonautes,+31402+Toulouse,+France+)                      |
@@ -298,8 +298,8 @@ Thank you to the many [contributors](https://github.com/chrieke/awesome-geospati
 | [Terranis](http://terranis.fr/en/)                               | S             | :seedling: EO: precision agriculture and viticulture services                            | [:round_pushpin: Ramonville-Saint-Agne](https://www.google.com/maps/search/12+Avenue+de+l'Europe,+31520+Ramonville-Saint-Agne,+France+) |
 | [Visioterra](https://www.visioterra.fr/web/?lang=en)             | S             | :earth_americas: EO: All-purpose                                                         | [:round_pushpin: Champs-sur-Marne](https://www.google.com/maps/search/14+rue+Albert+Einstein,+77420+Champs-sur-Marne,+France+)          | 
 
-## :de: Germany *(62)*
-| Company                                                                   | Office Size   | Focus                                                                                                       | Address                                                                                                                                     |
+## :de: Germany
+| Company (62)                                                              | Office Size   | Focus                                                                                                       | Address                                                                                                                                     |
 |:--------------------------------------------------------------------------|:--------------|:------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------|
 | [Aerowest](http://www.aerowest.de)                                        | M             | :airplane: Aerial image acquistion                                                                          | [:round_pushpin: Dortmund](https://www.google.com/maps/search/Flughafenring+11,+44319+Dortmund,+Germany+)                                   |
 | [Airbus Defence and Space](http://www.intelligence-airbusds.com)          | L (B)         | :earth_americas: EO: All-purpose, Government/Defence intelligence                                           | [:round_pushpin: Immenstadt am Bodensee](https://www.google.com/maps/search/Claude-Dorner-Str,+88090+Immenstaad+am+Bodensee,+Germany+)      |
@@ -364,8 +364,8 @@ Thank you to the many [contributors](https://github.com/chrieke/awesome-geospati
 | [WhereGroup GmbH](https://wheregroup.com/)                                | M             | :globe_with_meridians: Spatial open-source development                                                      | [:round_pushpin: Bonn](https://www.google.com/maps/search/Eifelstraße+7,+Bonn,+Germany+)                                                    |
 | [xarvio](https://www.xarvio.com/de/de.html)                               | L             | :seedling: Crop Insights                                                                                    | [:round_pushpin: Münster](https://www.google.com/maps/search/Albrecht-Thaer-Straße+34,+48147+Münster,+Germany+)                             | 
 
-## :greece: Greece *(7)*
-| Company                                                          | Office Size   | Focus                                                                                           | Address                                                                                                                                      |
+## :greece: Greece
+| Company (7)                                                      | Office Size   | Focus                                                                                           | Address                                                                                                                                      |
 |:-----------------------------------------------------------------|:--------------|:------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------|
 | [Agroapps](https://agroapps.gr/en/home/)                         | S             | :seedling: Services for farm management advisory, climate and weather forecast                  | [:round_pushpin: Thessaloníki](https://www.google.com/maps/search/Kountourioti+3,+Thessaloníki,+54625,+Greece+)                              |
 | [Draxis](https://draxis.gr)                                      | M             | :earth_americas: EO: Environmental consultancy, Geo IT                                          | [:round_pushpin: Thessaloniki](https://www.google.com/maps/search/Themistokli+Sofouli+St.+54-56+,+54655+Thessaloniki,+Greece+)               |
@@ -375,18 +375,18 @@ Thank you to the many [contributors](https://github.com/chrieke/awesome-geospati
 | [Planetek Hellas](http://www.planetek.gr)                        | M             | :earth_americas: EO: All-purpose                                                                | [:round_pushpin: Athens](https://www.google.com/maps/search/44,+Kifissias+Ave,+15125,+Athens+)                                               |
 | [SatShipAI](https://satshipai.eu)                                | S             | :earth_americas: EO based marine surveillance, ship tracking with EO&AI                         | [:round_pushpin: Athens](https://www.google.com/maps/search/Mitropoleos+43,+105+56,+Athens,+Greece+)                                         | 
 
-## :guatemala: Guatemala *(1)*
-| Company                                              | Office Size   | Focus                                                                   | Address                                                                                                                           |
+## :guatemala: Guatemala
+| Company (1)                                          | Office Size   | Focus                                                                   | Address                                                                                                                           |
 |:-----------------------------------------------------|:--------------|:------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------|
 | [Geotecnologias S.A.](http://www.geotecnologias.com) | S  (B)        | :globe_with_meridians: Cadastre, GIS consulting, ESRI & Trimble partner | [:round_pushpin: Santa Catarina Pinula](https://www.google.com/maps/search/Plaza+Tigo+Torre+3,+Santa+Catarina+Pinula,+Guatemala+) | 
 
-## :hungary: Hungary *(1)*
-| Company                                | Office Size   | Focus                                                               | Address                                                                                                       |
+## :hungary: Hungary
+| Company (1)                            | Office Size   | Focus                                                               | Address                                                                                                       |
 |:---------------------------------------|:--------------|:--------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------|
 | [Eurosense](http://www.eurosense.com/) | S (B)         | :airplane: Aerial imagery & LiDAR acquisition, all-purpose analysis | [:round_pushpin: Budapest](https://www.google.com/maps/search/Ady+Endre+ùt+42-44,+HU-1191+Budapest,+HUNGARY+) | 
 
-## :india: India *(29)*
-| Company                                                         | Office Size   | Focus                                                                                                  | Address                                                                                                                                                                                                            |
+## :india: India
+| Company (29)                                                    | Office Size   | Focus                                                                                                  | Address                                                                                                                                                                                                            |
 |:----------------------------------------------------------------|:--------------|:-------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [AAM Group](http://www.aamgroup.com)                            | M (B)         | :airplane: Aerial image & LiDAR acquisition, 3D GIS                                                    | [:round_pushpin: Hyderabad](https://www.google.com/maps/search/Raj+Bhavan+Rd,+Nishat+Bagh+Colony,+Somajiguda,+Hyderabad,+Telangana+500082,+India+)                                                                 |
 | [Aidash](https://www.aidash.com/)                               | M (B)         | :earth_americas: EO for utility vegetation management                                                  | [:round_pushpin: Bellandur](https://www.google.com/maps/search/RMZ+Ecoworld,+6A,+Outer+Ring+Rd,+Devarabisanahalli,+Bellandur,+Bengaluru,+Karnataka+560103,+India+)                                                 |
@@ -418,20 +418,20 @@ Thank you to the many [contributors](https://github.com/chrieke/awesome-geospati
 | [TraceAgTech](https://traceagtech.com/)                         | S             | :globe_with_meridians: Farm management software for agribusiness                                       | [:round_pushpin: Kerala](https://www.google.com/maps/search/Memorial+Building,+SA+Road,+Varghese,+Kerala+682019,+India+)                                                                                           |
 | [Vasundharaa Geo Technologies](https://vasundharaa.in/)         | S             | :earth_americas: EO: Urban, Agriculture, Disaster & Environment                                        | [:round_pushpin: India](https://www.google.com/maps/search/Indiranagar+Society,+Vakil+Nagar,+Erandwane,+Pune,+Maharashtra+411004,+India+)                                                                          | 
 
-## :indonesia: Indonesia *(1)*
-| Company                            | Office Size   | Focus                                       | Address                                                                                                                                                |
+## :indonesia: Indonesia
+| Company (1)                        | Office Size   | Focus                                       | Address                                                                                                                                                |
 |:-----------------------------------|:--------------|:--------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [ESRI](http://esriindonesia.co.id) | M (B)         | :globe_with_meridians: ArcGIS software, GIS | [:round_pushpin: Jakarta](https://www.google.com/maps/search/Menara+165,+6th+Floor+Unit+B,+JL.+TB+Simatupang+Kav+1,+Jakarta+Selatan+12560,+Indonesia+) | 
 
-## :ireland: Ireland *(3)*
-| Company                                              | Office Size   | Focus                                       | Address                                                                                                                      |
+## :ireland: Ireland
+| Company (3)                                          | Office Size   | Focus                                       | Address                                                                                                                      |
 |:-----------------------------------------------------|:--------------|:--------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|
 | [ESRI](http://www.esri-ireland.ie)                   | M (B)         | :globe_with_meridians: ArcGIS software, GIS | [:round_pushpin: Dublin](https://www.google.com/maps/search/Block+B,+Ashtown+Gate,+Navan+Road,+Dublin,+Ireland+)             |
 | [Mallontechnology](https://www.mallontechnology.com) | M (B)         | :globe_with_meridians: GIS+EO: All-purpose  | [:round_pushpin: Dublin](https://www.google.com/maps/search/34+Fitzwilliam+Square,+Dublin,+Ireland+)                         |
 | [Mallontechnology](https://www.mallontechnology.com) | M (H)         | :globe_with_meridians: GIS+EO: All-purpose  | [:round_pushpin: Cookstown](https://www.google.com/maps/search/Union+House,+Union+Place,+Cookstown,+Co.+Tyrone,+N.+Ireland+) | 
 
-## :israel: Israel *(8)*
-| Company                                      | Office Size   | Focus                                                                         | Address                                                                                                            |
+## :israel: Israel
+| Company (8)                                  | Office Size   | Focus                                                                         | Address                                                                                                            |
 |:---------------------------------------------|:--------------|:------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------|
 | [Albo](https://www.albosys.com/)             | S             | :earth_americas: EO for carbon sequestration analysis                         | [:round_pushpin: Raanana](https://www.google.com/maps/search/HaTidhar+5,+Raanana,+Israel+)                         |
 | [HERE Technologies](https://www.here.com/en) | L (B)         | :globe_with_meridians: Car navigation mapping, GIS                            | [:round_pushpin: Ramat Gan](https://www.google.com/maps/search/12+Abba+Hillel,+HaBursa,+Ramat+Gan,+52506,+Israel+) |
@@ -442,8 +442,8 @@ Thank you to the many [contributors](https://github.com/chrieke/awesome-geospati
 | [Taranis](http://www.taranis.ag)             | M             | :seedling: Crop insights platform                                             | [:round_pushpin: Tel Aviv-Yafo](https://www.google.com/maps/search/3+HaBarzel+St,+Tel+Aviv-Yafo,+Israel+)          |
 | [Utilis](https://utiliscorp.com)             | M             | :earth_americas: EO: water utility leakage detection                          | [:round_pushpin: Rosh Haayin](https://www.google.com/maps/search/Amal+St.+13,+Rosh+Haayin+4809249,+Israel+)        | 
 
-## :it: Italy *(15)*
-| Company                                        | Office Size   | Focus                                                                                         | Address                                                                                                                  |
+## :it: Italy
+| Company (15)                                   | Office Size   | Focus                                                                                         | Address                                                                                                                  |
 |:-----------------------------------------------|:--------------|:----------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------|
 | [Aersys](http://www.aresys.it)                 | S             | :earth_americas: SAR/InSAR ground monitoring                                                  | [:round_pushpin: Milan](https://www.google.com/maps/search/Via+Flumendosa+16,+20132+Milan,+Italy+)                       |
 | [Ariespace](https://www.ariespace.com/en/)     | S             | :seedling: EO based agriculture irrigiation advisory service, crop insights                   | [:round_pushpin: Naples](https://www.google.com/maps/search/Centro+Direzionale,+IS.+A3,+80143+Napoli,+Italy+)            |
@@ -461,8 +461,8 @@ Thank you to the many [contributors](https://github.com/chrieke/awesome-geospati
 | [Terradue](https://www.terradue.com/portal/)   | S             | :earth_americas: EO data cloud infrastructure services                                        | [:round_pushpin: Rome](https://www.google.com/maps/search/Via+Giovanni+Amendola+46,+00185+Roma,+Italy+)                  |
 | [Tre Altamira](http://tre-altamira.com)        | M (H)         | :earth_americas: EO: InSAR                                                                    | [:round_pushpin: Milan](https://www.google.com/maps/search/Ripa+di+Porta+Ticinese,+79,+20143+Milano,+Italy+)             | 
 
-## :jp: Japan *(5)*
-| Company                                       | Office Size   | Focus                                                                            | Address                                                                                                                                |
+## :jp: Japan
+| Company (5)                                   | Office Size   | Focus                                                                            | Address                                                                                                                                |
 |:----------------------------------------------|:--------------|:---------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------|
 | [Asia Air Survey](http://www.ajiko.co.jp/en/) | M             | :airplane: Aerial image & LiDAR acquistion, analysis                             | [:round_pushpin: 川崎市](https://www.google.com/maps/search/1-2-2+Manpukuji,+Asao-ku,+Kawasaki-shi,+Kanagawa+Prefecture+215-0004,+Japan+) |
 | [Axelspace](https://www.axelspace.com/)       | M             | :artificial_satellite: Microsatellite constellation for daily global observation | [:round_pushpin: Tokyo](https://www.google.com/maps/search/3-3-3+Nihonbashi-Honcho,+Chuo-ku,+Tokyo,+103-0023,+Japan+)                  |
@@ -470,8 +470,8 @@ Thank you to the many [contributors](https://github.com/chrieke/awesome-geospati
 | [Pasco](http://www.pasco.co.jp/eng/)          | M             | :earth_americas: EO data reseller, Aerial image acquisition, GIS services        | [:round_pushpin: Tokyo](https://www.google.com/maps/search/1-1-2+Higashiyama,+Meguro-ku,+Tokyo+153-0043,+Japan+)                       |
 | [Synspective](https://synspective.com)        | S             | :earth_americas: EO: Smallsat SAR constellation & analytics                      | [:round_pushpin: Tokyo](https://www.google.com/maps/search/Ginza+1-chome+bldg.+7F,+1-15-4+Ginza,+Chuo-ku,+Tokyo,+Japan+)               | 
 
-## :kenya: Kenya *(5)*
-| Company                                          | Office Size   | Focus                                                                   | Address                                                                                                           |
+## :kenya: Kenya
+| Company (5)                                      | Office Size   | Focus                                                                   | Address                                                                                                           |
 |:-------------------------------------------------|:--------------|:------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------|
 | [ESRI](https://www.esriea.com)                   | L (B)         | :globe_with_meridians: ArcGIS software, GIS                             | [:round_pushpin: Nairobi](https://www.google.com/maps/search/Kilimanjaro+Avenue,+Upper+Hill,+Nairobi,+Kenya+)     |
 | [Gro Intelligence](https://gro-intelligence.com) | S (B)         | :earth_americas: Agriculture commodity intelligence                     | [:round_pushpin: Nairobi](https://www.google.com/maps/search/Eldama+Ravine+Road,+Westlands+Nairobi,+Kenya+)       |
@@ -479,8 +479,8 @@ Thank you to the many [contributors](https://github.com/chrieke/awesome-geospati
 | [Orbital Africa](http://www.orbital.co.ke)       | S             | :globe_with_meridians: Geospatial software / data reseller and analysis | [:round_pushpin: Nairobi](https://www.google.com/maps/search/Kimathi+Building,+Kimathi+Ln,+Nairobi,+Kenya+)       |
 | [QED](https://qed.ai/)                           | S (B)         | :earth_americas: EO for agriculture, environment, and health            | [:round_pushpin: Nairobi](https://www.google.com/maps/search/Nairobi,+Westlands+Chiromo+Road,+Kenya+)             | 
 
-## :luxembourg: Luxembourg *(5)*
-| Company                                               | Office Size   | Focus                                                                   | Address                                                                                                                                           |
+## :luxembourg: Luxembourg
+| Company (5)                                           | Office Size   | Focus                                                                   | Address                                                                                                                                           |
 |:------------------------------------------------------|:--------------|:------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Hydrosat](https://www.hydrosat.com/)                 | S (B)         | :earth_americas: Thermal imagery insights with focus on agriculture     | [:round_pushpin: Luxembourg](https://www.google.com/maps/search/9+Rue+du+Laboratoire,+L-1911+Luxembourg,+Luxembourg+)                             |
 | [Kleos Space](https://kleos.space/)                   | M             | :earth_americas: RF Reconnaissance Data as a Service                    | [:round_pushpin: Luxembourg](https://www.google.com/maps/search/Luxite+Two+7,+Rue+de+l'Innovation,+1896,+Luxembourg+)                             |
@@ -488,22 +488,22 @@ Thank you to the many [contributors](https://github.com/chrieke/awesome-geospati
 | [Space4Environment](http://www.space4environment.com) | S             | :earth_americas: EO: All-purpose                                        | [:round_pushpin: Niederanven](https://www.google.com/maps/search/48,+rue+Gabriel+Lippmann,+L-6947+Niederanven,+Luxembourg+)                       |
 | [Spire](https://spire.com/)                           | M (B)         | :artificial_satellite: Remote Frequency satellite constellation         | [:round_pushpin: Vienna](https://www.google.com/maps/search/8000+Towers+Crescent+Dr,+Vienna,+VA+22182,+USA+)                                      | 
 
-## :malaysia: Malaysia *(2)*
-| Company                                   | Office Size   | Focus                                                                                                 | Address                                                                                                                               |
+## :malaysia: Malaysia
+| Company (2)                               | Office Size   | Focus                                                                                                 | Address                                                                                                                               |
 |:------------------------------------------|:--------------|:------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------|
 | [ESRI](http://esrimalaysia.com.my)        | M (B)         | :globe_with_meridians: ArcGIS software, GIS                                                           | [:round_pushpin: Petaling Jaya](https://www.google.com/maps/search/16+Persiaran+Barat,+46050+Petaling+Jaya,+Selangor,+Malaysia+)      |
 | [Skymap Global](https://skymapglobal.com) | S (B)         | :globe_with_meridians: Location-based analytics platforms for buiseness, agriculture, forest insights | [:round_pushpin: Kuala Lumpur](https://www.google.com/maps/search/Lingkaran,+Sunway+Velocity,+Cheras,+55100,+Kuala+Lumpur,+Malaysia+) | 
 
-## :mexico: Mexico *(4)*
-| Company                                                          | Office Size   | Focus                                                                           | Address                                                                                                                                                          |
+## :mexico: Mexico
+| Company (4)                                                      | Office Size   | Focus                                                                           | Address                                                                                                                                                          |
 |:-----------------------------------------------------------------|:--------------|:--------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Descifra](https://www.descifra.global)                          | M             | :globe_with_meridians: Geospatial Intelligence for retail, telco, logistic etc. | [:round_pushpin: Álvaro Obregón](https://www.google.com/maps/search/Insurgentes+Sur+1806,+Col.+Florida,+Álvaro+Obregón,+01030,+CDMX,+México+)                    |
 | [HERE Technologies](https://www.here.com/en)                     | L (B)         | :globe_with_meridians: Car navigation mapping, GIS                              | [:round_pushpin: León](https://www.google.com/maps/search/Blvd.+Campestre+2502,+El+Refugio+Campestre,+37156+León,+Gto.,+Mexico+)                                 |
 | [Merrick](https://www.merrick.com/services/geospatial-services/) | M             | :earth_americas: EO data reseller, LiDAR, mapping, all-purpose geodata analysis | [:round_pushpin: Maxico City](https://www.google.com/maps/search/Jaime+Balmes+no.+11,+Col.+Los+Morales+Polanco,+C.P.+11510,+Mexico+)                             |
 | [Tycho Solutions](https://tycho.solutions/)                      | S             | :earth_americas: EO: Energy, Mobility, Land Ressources                          | [:round_pushpin: Mexico](https://www.google.com/maps/search/Aristóteles+321-Dpto+103,+Polanco,+Polanco+IV+Secc,+Miguel+Hidalgo,+11550+Ciudad+de+México,+Mexico+) | 
 
-## :netherlands: Netherlands *(30)*
-| Company                                                       | Office Size   | Focus                                                                                                  | Address                                                                                                                                |
+## :netherlands: Netherlands
+| Company (30)                                                  | Office Size   | Focus                                                                                                  | Address                                                                                                                                |
 |:--------------------------------------------------------------|:--------------|:-------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------|
 | [Aerodata International Surveys](http://aerodata-surveys.com) | S (B)         | :airplane: Airborne surveying and mapping, analysis                                                    | [:round_pushpin: Utrecht](https://www.google.com/maps/search/Groenewoudsedijk+40,+3528+BK+Utrecht,+Netherlands+)                       |
 | [Aurea Imaging](http://www.aureaimaging.com/)                 | S             | :seedling: Crop insights platform                                                                      | [:round_pushpin: Utrecht](https://www.google.com/maps/search/Weg+der+Verenigde+Naties+1,+3527+KT+Utrecht,+Netherlands+)                |
@@ -536,8 +536,8 @@ Thank you to the many [contributors](https://github.com/chrieke/awesome-geospati
 | [Vandersat](https://www.vandersat.com)                        | M             | :earth_americas: EO: Soil moisture / temperature monitoring                                            | [:round_pushpin: Haarlem](https://www.google.com/maps/search/Wilhelminastraat+43A,+2011+VK+Haarlem,+Netherlands+)                      |
 | [Webmapper](https://webmapper.net)                            | S             | :world_map: Web mapping solutions, cartography and GIS consultancy                                     | [:round_pushpin: Utrecht](https://www.google.com/maps/search/Kromme+Nieuwegracht+3,+3512+HC+Utrecht,+Netherlands+)                     | 
 
-## :new_zealand: New Zealand *(13)*
-| Company                                              | Office Size   | Focus                                                                  | Address                                                                                                                                         |
+## :new_zealand: New Zealand
+| Company (13)                                         | Office Size   | Focus                                                                  | Address                                                                                                                                         |
 |:-----------------------------------------------------|:--------------|:-----------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Beca](https://www.beca.com)                         | L (H)         | :globe_with_meridians: Engineering firm with GIS consultancy           | [:round_pushpin: Auckland](https://www.google.com/maps/search/21+Pitt+Street,+Auckland+1010,+New+Zealand+)                                      |
 | [Beca](https://www.beca.com)                         | L (B)         | :globe_with_meridians: Engineering firm with GIS consultancy           | [:round_pushpin: Hamilton](https://www.google.com/maps/search/6+Garden+Place,+Hamilton+3204,+New+Zealand+)                                      |
@@ -553,26 +553,26 @@ Thank you to the many [contributors](https://github.com/chrieke/awesome-geospati
 | [Orbica](https://orbica.world)                       | M             | :globe_with_meridians: Location insights, GeoAI, Field Data Collection | [:round_pushpin: Christchurch](https://www.google.com/maps/search/100+Manchester+Street,+Christchurch+Central,+Christchurch+8011,+New+Zealand+) |
 | [Seequent](https://www.seequent.com/)                | L (H)         | :globe_with_meridians: Earth modelling & geo-data management software  | [:round_pushpin: Christchurch](https://www.google.com/maps/search/20+Moorhouse+Avenue,+Christchurch,+Canterbury+8011,+New+Zealand+)             | 
 
-## :norway: Norway *(4)*
-| Company                             | Office Size   | Focus                                                     | Address                                                                                             |
+## :norway: Norway
+| Company (4)                         | Office Size   | Focus                                                     | Address                                                                                             |
 |:------------------------------------|:--------------|:----------------------------------------------------------|:----------------------------------------------------------------------------------------------------|
 | [Geodata](https://geodata.no/)      | M (H)         | :globe_with_meridians: GIS consultancy, ESRI distributor  | [:round_pushpin: Oslo](https://www.google.com/maps/search/Schweigaards+gate+28,+Oslo+0133,+Norway+) |
 | [Geodata](https://geodata.no/)      | S (B)         | :globe_with_meridians: GIS consultancy, ESRI distributor  | [:round_pushpin: Oslo](https://www.google.com/maps/search/Lagårdsveien+78,+4010+Stavanger,+Norway+) |
 | [Geodata](https://geodata.no/)      | S (B)         | :globe_with_meridians: GIS consultancy, ESRI distributor  | [:round_pushpin: Oslo](https://www.google.com/maps/search/Abels+gate+5,+7030+Trondheim,+Norway+)    |
 | [Unacast](https://www.unacast.com/) | M             | :globe_with_meridians: International Location Data vendor | [:round_pushpin: Oslo](https://www.google.com/maps/search/Karl+Johans+Gate+21,+0159+Oslo,+Norway+)  | 
 
-## :pakistan: Pakistan *(1)*
-| Company                       | Office Size   | Focus                                                  | Address                                                                                                       |
+## :pakistan: Pakistan
+| Company (1)                   | Office Size   | Focus                                                  | Address                                                                                                       |
 |:------------------------------|:--------------|:-------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------|
 | [LMKT](https://www.lmkt.com/) | L             | :globe_with_meridians: Smart city & agritech solutions | [:round_pushpin: Islamabad](https://www.google.com/maps/search/Street+3rd+&+Lodhi+Road,+Islamabad,+Pakistan+) | 
 
-## :peru: Peru *(1)*
-| Company                                        | Office Size   | Focus                                                                           | Address                                                                                                 |
+## :peru: Peru
+| Company (1)                                    | Office Size   | Focus                                                                           | Address                                                                                                 |
 |:-----------------------------------------------|:--------------|:--------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|
 | [Developmentseed](https://developmentseed.org) | S (B)         | :earth_americas: DevSeed Data Team / Mapbox Peru, OSM Mapping, ML data creation | [:round_pushpin: Ayacucho](https://www.google.com/maps/search/Jose+Santos+Chocano+416,+Ayacucho,+Peru+) | 
 
-## :poland: Poland *(10)*
-| Company                                        | Office Size   | Focus                                                                      | Address                                                                                                                |
+## :poland: Poland
+| Company (10)                                   | Office Size   | Focus                                                                      | Address                                                                                                                |
 |:-----------------------------------------------|:--------------|:---------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------|
 | [ESRI](http://www.esri.pl)                     | M (B)         | :globe_with_meridians: ArcGIS software, GIS                                | [:round_pushpin: Warsaw](https://www.google.com/maps/search/ul.+Bonifraterska+17,+00-203+Warszawa,+Poland+)            |
 | [Eurosense](http://www.eurosense.com/)         | S (B)         | :airplane: Aerial imagery & LiDAR acquisition, all-purpose analysis        | [:round_pushpin: Warsaw](https://www.google.com/maps/search/Ul.+Sienna+83,+Lok+218,+PL-00-815+Warsaw,+POLAND+)         |
@@ -585,58 +585,58 @@ Thank you to the many [contributors](https://github.com/chrieke/awesome-geospati
 | [Tensorflight](https://tensorflight.io)        | S (H)         | :earth_americas: Property data and AI technology for insurance             | [:round_pushpin: Warsaw](https://www.google.com/maps/search/Mikołaja+Kopernika+32/12,+00-336+Warsaw,+Poland+)          |
 | [TomTom](https://www.tomtom.com)               | L (B)         | :globe_with_meridians: GIS for navigation                                  | [:round_pushpin: Lodz](https://www.google.com/maps/search/Stefana+Żeromskiego+94c,+90-550+Łódź,+Poland+)               | 
 
-## :portugal: Portugal *(4)*
-| Company                                        | Office Size   | Focus                                                              | Address                                                                                                                     |
+## :portugal: Portugal
+| Company (4)                                    | Office Size   | Focus                                                              | Address                                                                                                                     |
 |:-----------------------------------------------|:--------------|:-------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------|
 | [Developmentseed](https://developmentseed.org) | S (B)         | :earth_americas: EO data and analysis infrastructure (open source) | [:round_pushpin: Lisabon](https://www.google.com/maps/search/Avenida+da+Liberdade+229,+1250-142+Lisboa,+Portugal+)          |
 | [ESRI](http://www.esriportugal.pt)             | L (B)         | :globe_with_meridians: ArcGIS software, GIS                        | [:round_pushpin: Lisabon](https://www.google.com/maps/search/RUA+JULIETA+FERRÃO,+Nº+10+-+10º+A,+1600-131+LISBOA,+Portugal+) |
 | [GMV](https://www.gmv.com/en/)                 | M (B)         | :earth_americas: EO: All-purpose                                   | [:round_pushpin: Lisboa](https://www.google.com/maps/search/Avenida+Dom+João+II,+no+43,+1998-025+Lisboa,+Portugal+)         |
 | [Tesselo](https://tesselo.com/)                | S             | :earth_americas: EO: Sustainability, mapping                       | [:round_pushpin: Lisbon](https://www.google.com/maps/search/Lisbon,+Portugal+)                                              | 
 
-## :romania: Romania *(4)*
-| Company                                      | Office Size   | Focus                                                                              | Address                                                                                                                     |
+## :romania: Romania
+| Company (4)                                  | Office Size   | Focus                                                                              | Address                                                                                                                     |
 |:---------------------------------------------|:--------------|:-----------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------|
 | [ESRI](http://www.esri.ro)                   | L (B)         | :globe_with_meridians: ArcGIS software, GIS                                        | [:round_pushpin: Voluntari](https://www.google.com/maps/search/Drumul+Potcoavei+48,+Voluntari+077190,+Romania+)             |
 | [Essensys Software](http://www.essensys.ro/) | M             | :globe_with_meridians: GIS solutions, INSPIRE implementation, software development | [:round_pushpin: Bucharest](https://www.google.com/maps/search/8+Iancu+de+Hunedoara+Boulevard,+011742,+Bucharest,+Romania+) |
 | [Eurosense](http://www.eurosense.com/)       | S (B)         | :airplane: Aerial imagery & LiDAR acquisition, all-purpose analysis                | [:round_pushpin: Bucharest](https://www.google.com/maps/search/Calea+Victoriei+26,+Sector+3+-+030027+-+Bucharest,+ROMANIA+) |
 | [Terrasigna](http://www.terrasigna.com)      | S             | :earth_americas: EO: All-purpose, InSAR / PSI                                      | [:round_pushpin: Bucharest](https://www.google.com/maps/search/3+Logofat+Luca+Stroici+Street,+020581,+Bucharest,+Romania+)  | 
 
-## :ru: Russia *(1)*
-| Company                            | Office Size   | Focus                                                                                  | Address                                                                                                           |
+## :ru: Russia
+| Company (1)                        | Office Size   | Focus                                                                                  | Address                                                                                                           |
 |:-----------------------------------|:--------------|:---------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------|
 | [NextGIS](https://www.nextgis.com) | M             | :globe_with_meridians: GIS, Webgis & server development, data processing, GIS training | [:round_pushpin: Moscow](https://www.google.com/maps/search/20+Novaya+Basmannaya+street,+Moscow,+107078,+Russia+) | 
 
-## :saudi_arabia: Saudi Arabia *(1)*
-| Company                                | Office Size   | Focus                                       | Address                                                                                                             |
+## :saudi_arabia: Saudi Arabia
+| Company (1)                            | Office Size   | Focus                                       | Address                                                                                                             |
 |:---------------------------------------|:--------------|:--------------------------------------------|:--------------------------------------------------------------------------------------------------------------------|
 | [ESRI](http://www.esrisaudiarabia.com) | M (B)         | :globe_with_meridians: ArcGIS software, GIS | [:round_pushpin: Riyadh](https://www.google.com/maps/search/Imam+Saud+Bin+Faisal+Road,+Riyadh+11585,+Saudi+Arabia+) | 
 
-## :serbia: Serbia *(1)*
-| Company                    | Office Size   | Focus                                        | Address                                                                                                |
+## :serbia: Serbia
+| Company (1)                | Office Size   | Focus                                        | Address                                                                                                |
 |:---------------------------|:--------------|:---------------------------------------------|:-------------------------------------------------------------------------------------------------------|
 | [Gilab](https://gilab.rs/) | S             | :globe_with_meridians: GIS + EO: All-purpose | [:round_pushpin: Belgrade](https://www.google.com/maps/search/Veljka+Dugoševića+54,+Belgrade,+Serbia+) | 
 
-## :singapore: Singapore *(4)*
-| Company                                   | Office Size   | Focus                                                                                                 | Address                                                                                                                |
+## :singapore: Singapore
+| Company (4)                               | Office Size   | Focus                                                                                                 | Address                                                                                                                |
 |:------------------------------------------|:--------------|:------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------|
 | [eofactory](https://eofactory.ai/)        | M             | :earth_americas: EO platform for geo insights                                                         | [:round_pushpin: Singapore](https://www.google.com/maps/search/18+Howard+Rd,+Singapore+)                               |
 | [ESRI](http://esrisingapore.com.sg)       | M (B)         | :globe_with_meridians: ArcGIS software, GIS                                                           | [:round_pushpin: Singapore](https://www.google.com/maps/search/82+Ubi+Avenue+4,+408832,+Singapore++)                   |
 | [ESRI](http://esrisingapore.com.sg)       | M (B)         | :globe_with_meridians: ArcGIS software, GIS                                                           | [:round_pushpin: Singapore](https://www.google.com/maps/search/82+Ubi+Avenue+4,+Singapore+408832+)                     |
 | [Skymap Global](https://skymapglobal.com) | S (H)         | :globe_with_meridians: Location-based analytics platforms for buiseness, agriculture, forest insights | [:round_pushpin: Singapore](https://www.google.com/maps/search/12+Tannery+Road,+#04-03+HB+Centre+1,+Singapore+347722+) | 
 
-## :slovakia: Slovakia *(2)*
-| Company                                | Office Size   | Focus                                                               | Address                                                                                                         |
+## :slovakia: Slovakia
+| Company (2)                            | Office Size   | Focus                                                               | Address                                                                                                         |
 |:---------------------------------------|:--------------|:--------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------|
 | [Eurosense](http://www.eurosense.com/) | S (B)         | :airplane: Aerial imagery & LiDAR acquisition, all-purpose analysis | [:round_pushpin: Bratislava](https://www.google.com/maps/search/Kutuzovova+13,+SK-831+03+BRATISLAVA,+SLOVAKIA+) |
 | [InSAR Sk](https://insar.space)        | S             | :earth_americas: EO: InSAR research, ground deformation etc.        | [:round_pushpin: Presov](https://www.google.com/maps/search/08001+Presov,+Slovakia+)                            | 
 
-## :slovenia: Slovenia *(1)*
-| Company                                  | Office Size   | Focus                                              | Address                                                                                                        |
+## :slovenia: Slovenia
+| Company (1)                              | Office Size   | Focus                                              | Address                                                                                                        |
 |:-----------------------------------------|:--------------|:---------------------------------------------------|:---------------------------------------------------------------------------------------------------------------|
 | [Sinergise](http://www.sinergise.com/en) | M             | :earth_americas: Sentinel Hub, Data Infrastructure | [:round_pushpin: Ljubljana](https://www.google.com/maps/search/Cvetkova+ulica+29+SI-1000+Ljubljana,+Slovenia+) | 
 
-## :south_africa: South Africa *(11)*
-| Company                                            | Office Size   | Focus                                                                        | Address                                                                                                                                                 |
+## :south_africa: South Africa
+| Company (11)                                       | Office Size   | Focus                                                                        | Address                                                                                                                                                 |
 |:---------------------------------------------------|:--------------|:-----------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [ESRI](http://www.esri-southafrica.com)            | L (B)         | :globe_with_meridians: ArcGIS software, GIS                                  | [:round_pushpin: Midrand](https://www.google.com/maps/search/Cnr+New+Road+&+6th+Road,+Midrand,+South+Africa+)                                           |
 | [Geo Data Design](https://www.geodatadesign.co.za) | S             | :earth_americas: InSAR displacement monitoring, All-purpose geodata analysis | [:round_pushpin: Cape Town](https://www.google.com/maps/search/1F,+Nautica+Building,+The+Water+Club,+Beach+Road,+Granger+Bay,+Cape+Town,+South+Africa+) |
@@ -650,14 +650,14 @@ Thank you to the many [contributors](https://github.com/chrieke/awesome-geospati
 | [WGS Aerial Surveys](http://www.wgsair.com)        | S             | :airplane: Aerial survey, GIS                                                | [:round_pushpin: Kwa-Zulu Natal](https://www.google.com/maps/search/Builders+Way+1,+Hillcrest,+3610+Kwa-Zulu+Natal,+South+Africa+)                      |
 | [Woolpert](http://www.southernmapping.com)         | M (B)         | :airplane: Aerial image & LiDAR acquistion, geospatial analysis              | [:round_pushpin: Randburg](https://www.google.com/maps/search/Roos+St,+Beverley+Gardens,+Randburg,+South+Africa+)                                       | 
 
-## :kr: South Korea *(2)*
-| Company                                          | Office Size   | Focus                                                                         | Address                                                                                                             |
+## :kr: South Korea
+| Company (2)                                      | Office Size   | Focus                                                                         | Address                                                                                                             |
 |:-------------------------------------------------|:--------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------|
 | [Angelswing](https://angelswing.io/en/)          | M             | :airplane: Drone data platform                                                | [:round_pushpin: Seoul](https://www.google.com/maps/search/Gwanak-ro1,+Gwanak-gu,+Seoul+00826,+South+Korea+)        |
 | [SI Imaging Services](http://www.si-imaging.com) | M             | :earth_americas: Kompsat distributor, other satdata, photogrammetric software | [:round_pushpin: Dae-jeon](https://www.google.com/maps/search/Gwahak-ro,+Yuseong-gu,+Dae-jeon,+34133,+South+Korea+) | 
 
-## :es: Spain *(16)*
-| Company                                       | Office Size   | Focus                                                                                     | Address                                                                                                                                                |
+## :es: Spain
+| Company (16)                                  | Office Size   | Focus                                                                                     | Address                                                                                                                                                |
 |:----------------------------------------------|:--------------|:------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Aistech](https://aistechspace.com)           | M             | :earth_americas: Geospatial intelligence (Asset monitoring, EO, Aviation tracking)        | [:round_pushpin: Barcelona](https://www.google.com/maps/search/Carrer+d'Esteve+Terradas,+1,+08860+Castelldefels,+Barcelona,+Spain+)                    |
 | [Carto](https://carto.com)                    | L (B)         | :globe_with_meridians: Location data analysis platform                                    | [:round_pushpin: Madrid](https://www.google.com/maps/search/Madrid+Plaza+del+Callao,+4,+28013+Madrid,+Spain+)                                          |
@@ -676,13 +676,13 @@ Thank you to the many [contributors](https://github.com/chrieke/awesome-geospati
 | [Tre Altamira](http://tre-altamira.com)       | M (B)         | :earth_americas: EO: InSAR                                                                | [:round_pushpin: Barcelona](https://www.google.com/maps/search/Corsega,+381-387,+E-08037+Barcelona,+Spain+)                                            |
 | [Vizzuality](http://www.vizzuality.com)       | M             | :world_map: Spatial data vizualization, webmapping                                        | [:round_pushpin: Madrid](https://www.google.com/maps/search/Calle+de+Fuencarral,+123,+28010,+Madrid,+Spain+)                                           | 
 
-## :sri_lanka: Sri Lanka *(1)*
-| Company                             | Office Size   | Focus                                                          | Address                                                                                        |
+## :sri_lanka: Sri Lanka
+| Company (1)                         | Office Size   | Focus                                                          | Address                                                                                        |
 |:------------------------------------|:--------------|:---------------------------------------------------------------|:-----------------------------------------------------------------------------------------------|
 | [RS Metrics](https://rsmetrics.com) | S (B)         | :earth_americas: EO: Retail, Real Estate, Commodity monitoring | [:round_pushpin: Pita Kotte](https://www.google.com/maps/search/Pita+Kotte,+Kotte,+Sri+Lanka+) | 
 
-## :sweden: Sweden *(8)*
-| Company                                | Office Size   | Focus                                                                       | Address                                                                                                                           |
+## :sweden: Sweden
+| Company (8)                            | Office Size   | Focus                                                                       | Address                                                                                                                           |
 |:---------------------------------------|:--------------|:----------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------|
 | [ESRI](http://www.esri.se)             | L (B)         | :globe_with_meridians: ArcGIS software, GIS                                 | [:round_pushpin: Gävle](https://www.google.com/maps/search/Regementsvägen+29,+S-802+67+Gävle,+Sweden+)                            |
 | [Mapillary](https://www.mapillary.com) | M             | :globe_with_meridians: Street-level imagery analysis                        | [:round_pushpin: Malmö](https://www.google.com/maps/search/Bredgatan+4,+211+30+Malmö,+Sweden+)                                    |
@@ -693,8 +693,8 @@ Thank you to the many [contributors](https://github.com/chrieke/awesome-geospati
 | [T-Kartor](https://www.t-kartor.com)   | M             | :world_map: Weggeo solutions, Map production, City Wayfinding               | [:round_pushpin: Kristianstad](https://www.google.com/maps/search/Olof+Mohlins+väg+12,+291+62+Kristianstad,+Sweden+)              |
 | [Vultus](https://www.vultus.io/)       | S             | :seedling: Crop insights                                                    | [:round_pushpin: Lund](https://www.google.com/maps/search/Bankgatan+1a,+223+52+Lund,+Sweden+)                                     | 
 
-## :switzerland: Switzerland *(10)*
-| Company                                           | Office Size   | Focus                                                                               | Address                                                                                                                                 |
+## :switzerland: Switzerland
+| Company (10)                                      | Office Size   | Focus                                                                               | Address                                                                                                                                 |
 |:--------------------------------------------------|:--------------|:------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 | [Camptocamp](https://www.camptocamp.com/en)       | L             | :globe_with_meridians: Open Source GIS development, consultancy & training          | [:round_pushpin: Lausanne](https://www.google.com/maps/search/Camptocamp+SA,+EPFL+Innovation+Park,+1015+Lausanne,+Switzerland+)         |
 | [ESRI](https://www.esri.ch)                       | M (B)         | :globe_with_meridians: ArcGIS software, GIS                                         | [:round_pushpin: Zurich](https://www.google.com/maps/search/Josefstrasse+218,+8005+Zurich,+Switzerland+)                                |
@@ -707,35 +707,35 @@ Thank you to the many [contributors](https://github.com/chrieke/awesome-geospati
 | [Sensefly](https://www.sensefly.com/home.html)    | L (H)         | :airplane: "ebee" UAV manufacturer, "eMotion" flight software                       | [:round_pushpin: Cheseaux-Lausanne](https://www.google.com/maps/search/Route+de+Genève+38,+1033+Cheseaux-Lausanne,+Switzerland+)        |
 | [Vertigis](https://www.vertigis.com/)             | M (B)         | :globe_with_meridians: GIS: All-purpose                                             | [:round_pushpin: Bern](https://www.google.com/maps/search/Kirchbergstrasse+107,+CH-3400+Burgdorf,+Switzerland+)                         | 
 
-## :taiwan: Taiwan *(2)*
-| Company                                | Office Size   | Focus                                                         | Address                                                                                                                                      |
+## :taiwan: Taiwan
+| Company (2)                            | Office Size   | Focus                                                         | Address                                                                                                                                      |
 |:---------------------------------------|:--------------|:--------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------|
 | [Getchee](http://www.getchee.com)      | S             | :world_map: Spatial buiseness data visualization platform     | [:round_pushpin: Taipei](https://www.google.com/maps/search/7F,+No.+5,+Lane+768,+Section+4,+Bade+Rd.,+Nangang+District,+Taipei+115,+Taiwan+) |
 | [Supergeo](http://www.supergeotek.com) | M             | :globe_with_meridians: GIS / Spatial data collection software | [:round_pushpin: Taipei](https://www.google.com/maps/search/5F.,+No.71,+Zhouzi+Street,+Neihu+District,+Taipei+City+114,+Taipei,+Taiwan+)     | 
 
-## :tanzania: Tanzania *(1)*
-| Company                                              | Office Size   | Focus                                                        | Address                                                                                                               |
+## :tanzania: Tanzania
+| Company (1)                                          | Office Size   | Focus                                                        | Address                                                                                                               |
 |:-----------------------------------------------------|:--------------|:-------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------|
 | [Techno-Environment ](https://technoenvironment.com) | S             | :globe_with_meridians: Environment resources management, GIS | [:round_pushpin: Dar Es Salaam](https://www.google.com/maps/search/Tazara+Building,+Temeke,+Dar+Es+Salaam,+Tanzania+) | 
 
-## :thailand: Thailand *(1)*
-| Company                       | Office Size   | Focus                                       | Address                                                                                                                 |
+## :thailand: Thailand
+| Company (1)                   | Office Size   | Focus                                       | Address                                                                                                                 |
 |:------------------------------|:--------------|:--------------------------------------------|:------------------------------------------------------------------------------------------------------------------------|
 | [ESRI](http://www.esrith.com) | M (B)         | :globe_with_meridians: ArcGIS software, GIS | [:round_pushpin: Bangkok](https://www.google.com/maps/search/Nanglinchee+Road+12,+Chongnonsee,+Yannawa,+Bangkok+10120+) | 
 
-## :tr: Turkey *(1)*
-| Company                                  | Office Size   | Focus                                      | Address                                                                                                          |
+## :tr: Turkey
+| Company (1)                              | Office Size   | Focus                                      | Address                                                                                                          |
 |:-----------------------------------------|:--------------|:-------------------------------------------|:-----------------------------------------------------------------------------------------------------------------|
 | [Bits 'n Bricks](http://bitsnbricks.com) | S             | :globe_with_meridians: GIS: Urban insights | [:round_pushpin: Istanbul](https://www.google.com/maps/search/Safa+Sokak+No.6,+Moda,+Kadikoy,+Istanbul,+Turkey+) | 
 
-## :united_arab_emirates: UAE *(2)*
-| Company                                                     | Office Size   | Focus                                  | Address                                                                                                                        |
+## :united_arab_emirates: UAE
+| Company (2)                                                 | Office Size   | Focus                                  | Address                                                                                                                        |
 |:------------------------------------------------------------|:--------------|:---------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------|
 | [4 Earth Intelligence](https://www.4earthintelligence.com/) | S (B)         | :earth_americas: EO: All-purpose       | [:round_pushpin: Abu Dhabi](https://www.google.com/maps/search/The+Offices+World+Trade+Center,+Hamdan+Street,+Abu+Dhabi,+UAE+) |
 | [Pix4D](https://pix4d.com)                                  | S (B)         | :airplane: Photogrametry software, UAV | [:round_pushpin: Mohammed Bin Zayed City](https://www.google.com/maps/search/Injazat+Building,+Mohammed+Bin+Zayed+City,+UAE+)  | 
 
-## :uk: UK *(69)*
-| Company                                                                    | Office Size   | Focus                                                                                         | Address                                                                                                                                                           |
+## :uk: UK
+| Company (69)                                                               | Office Size   | Focus                                                                                         | Address                                                                                                                                                           |
 |:---------------------------------------------------------------------------|:--------------|:----------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [2Excel Geospatial](http://www.2excelgeo.com)                              | S             | :earth_americas: Forestry/Environment monitoring, Aerial surveying                            | [:round_pushpin: Wellington](https://www.google.com/maps/search/The+Tiger+House,+Sywell+Aerodrome,+Wellingborough+Rd,+Sywell,+Northampton,+UK+)                   |
 | [3DEO](https://www.3deo.com/)                                              | S             | :earth_americas: Business insights (Ports, Defence, Smart City)                               | [:round_pushpin: Belfast](https://www.google.com/maps/search/7+Donegall+Square+West,+Belfast,+UK+)                                                                |
@@ -807,8 +807,8 @@ Thank you to the many [contributors](https://github.com/chrieke/awesome-geospati
 | [Vercator](https://vercator.com/)                                          | S             | :earth_americas: Point cloud processing                                                       | [:round_pushpin: UK](https://www.google.com/maps/search/190+Clarence+Gate+Gardens,+London,+UK+)                                                                   |
 | [Vizzuality](http://www.vizzuality.com)                                    | S             | :world_map: Spatial data vizualization, webmapping                                            | [:round_pushpin: Cambridge](https://www.google.com/maps/search/Gwydir+St,+Cambridge,+CB1+2LJ,+UK+)                                                                | 
 
-## :us: USA *(206)*
-| Company                                                     | Office Size   | Focus                                                                                            | Address                                                                                                                              |
+## :us: USA
+| Company (206)                                               | Office Size   | Focus                                                                                            | Address                                                                                                                              |
 |:------------------------------------------------------------|:--------------|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
 | [Aerial Services Inc.](https://aerialservicesinc.com)       | M             | :airplane: Aerial image & LiDAR acquistion, analysis                                             | [:round_pushpin: Cedar Falls](https://www.google.com/maps/search/6315+Chancellor+Dr,+Cedar+Falls,+IA+50613,+USA+)                    |
 | [Agcode](http://www.agcode.com)                             | M             | :seedling: Farm managment software                                                               | [:round_pushpin: Glenwood](https://www.google.com/maps/search/100+17th+Ave,+Glenwood,+MN+56334,+USA+)                                |
@@ -1017,13 +1017,13 @@ Thank you to the many [contributors](https://github.com/chrieke/awesome-geospati
 | [WhiteStar Corporation](https://www.whitestar.com)          | S             | :globe_with_meridians: Landmapping software, Cartography / GIS                                   | [:round_pushpin: Lakewood](https://www.google.com/maps/search/777+South+Wadsworth+Blvd,+Lakewood,+CO+80226,+USA+)                    |
 | [Woolpert](https://woolpert.com)                            | L (H)         | :airplane: Aerial image & LiDAR acquistion, geospatial analysis                                  | [:round_pushpin: Dayton](https://www.google.com/maps/search/4454+Idea+Center+Boulevard,+Dayton,+OH+45430,+USA+)                      | 
 
-## :ukraine: Ukraine *(1)*
-| Company                     | Office Size   | Focus                                        | Address                                                                   |
+## :ukraine: Ukraine
+| Company (1)                 | Office Size   | Focus                                        | Address                                                                   |
 |:----------------------------|:--------------|:---------------------------------------------|:--------------------------------------------------------------------------|
 | [Aspectum](https://eos.com) | M             | :earth_americas: Online GIS mapping platform | [:round_pushpin: Kiev](https://www.google.com/maps/search/Kiev,+Ukraine+) | 
 
-## :vietnam: Vietnam *(2)*
-| Company                                               | Office Size   | Focus                                                                                                 | Address                                                                                                                 |
+## :vietnam: Vietnam
+| Company (2)                                           | Office Size   | Focus                                                                                                 | Address                                                                                                                 |
 |:------------------------------------------------------|:--------------|:------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------|
 | [Skymap Global](https://skymapglobal.com)             | S (B)         | :globe_with_meridians: Location-based analytics platforms for buiseness, agriculture, forest insights | [:round_pushpin: Hanoi](https://www.google.com/maps/search/Van+Quan,+Ha+Dong,+Hanoi,+Vietnam+)                          |
 | [Spatial Decisions](http://www.spatialdecisions.com/) | S (B)         | :globe_with_meridians: GIS consultancy (urban/regional planning, energy/infrastructure, climate)      | [:round_pushpin: Hanoi](https://www.google.com/maps/search/36B,+Ngõ+11+-+Tô+Ngọc+Vân,+Tây+Hồ+District,+Hanoi,+Vietnam+) | 
