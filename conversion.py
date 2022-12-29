@@ -71,8 +71,8 @@ pdf = pd.read_csv("awesome-geospatial-companies - Companies A-Z.csv")
 # display(pdf.head(1))
 print(f"Unique companies: {pdf['Focus'].nunique()}")
 
-if pdf.loc[:, pdf.columns != 'Notes (ex-name)'].isnull().values.any():
-    print(pdf[pdf.loc[:, pdf.columns != 'Notes (ex-name)'].isnull().any(axis=1)])
+if pdf.loc[:, pdf.columns != "Notes (ex-name)"].isnull().values.any():
+    print(pdf[pdf.loc[:, pdf.columns != "Notes (ex-name)"].isnull().any(axis=1)])
     raise ValueError("Table contains NA values!!!")
 
 if args.check_urls:
@@ -105,14 +105,15 @@ for country in sorted(pdf.Country.unique()):
         flag_emoji = country_emoji[flag_emoji]
 
     repo_link = "https://github.com/chrieke/awesome-geospatial-companies#"
-    chapter_link = (
-        f"[:{flag_emoji}: {country}]({repo_link}{country.lower().replace(' ', '-')}-{flag_emoji})"
-    )
+    chapter_link = f"[:{flag_emoji}: {country}]({repo_link}{country.lower().replace(' ', '-')}-{flag_emoji})"
     chapter_string = chapter_string + f"{chapter_link} - "
 
+    df_country = df_country.rename(
+        {"Company": f"Company ({df_country.shape[0]})"}, axis=1
+    )
     markdown_string = (
         markdown_string
-        + f"## :{flag_emoji}: {country} *({df_country.shape[0]})* \n"
+        + f"## :{flag_emoji}: {country} \n"
         + f"{df_country.to_markdown(index=False)} \n\n "
     )
 
