@@ -50,7 +50,6 @@ def reformat(df):
         "Satellite Operator": ":artificial_satellite:",
     }
     df = df.replace({"Category": categories})
-
     df["Company"] = df.apply(lambda x: f"[{x['Company']}]({x['Website']})", axis=1)
     df["Focus"] = df["Category"] + " " + df["Focus"]
 
@@ -61,8 +60,13 @@ def reformat(df):
     df["Address"] = df.apply(
         lambda x: f"[:round_pushpin: {x['City']}]({gmaps_url}{x['Address']})", axis=1
     )
+    df["Size & City"] = df.apply(
+        lambda x: f"**{x['Office Size'][0]}**{x['Office Size'][1:]} {x['Address']}",
+        axis=1,
+    )
 
-    df = df.drop(["Website", "Category", "City", "Notes (ex-name)"], axis=1)
+    df = df[["Company", "Size & City", "Focus", "Country"]]
+    # df = df.drop(["Website", "Category", "City", "Notes (ex-name)", "Address", "Office Size"], axis=1)
 
     return df
 
@@ -108,9 +112,17 @@ for country in sorted(pdf.Country.unique()):
     chapter_link = f"[:{flag_emoji}: {country}]({repo_link}{country.lower().replace(' ', '-')}-{flag_emoji})"
     chapter_string = chapter_string + f"{chapter_link} - "
 
+    df_country = (
+        df_country.groupby(["Company", "Focus"])["Size & City"]
+        .apply(" <br /> ".join)
+        .reset_index()
+    )
+    df_country = df_country[["Company", "Size & City", "Focus"]]
+
     df_country = df_country.rename(
         {"Company": f"Company ({df_country.shape[0]})"}, axis=1
     )
+
     markdown_string = (
         markdown_string
         + f"## :{flag_emoji}: {country} \n"
