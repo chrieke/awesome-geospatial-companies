@@ -30,17 +30,15 @@ args = parser.parse_args()
 def check_urls(urls: List[str]):
     # Include basic header info to avoid scraping blocks
     headers = {"User-Agent": "Mozilla/5.0"}
-
     for url in tqdm(urls):
         req = Request(url, headers=headers)
         try:
             urlopen(req)
         except (URLError, ValueError) as e:
-            # Do something when request fails
             print("Broken URL - ", url, e)
 
 
-def reformat(df):
+def format_table(df):
     categories = {
         "Earth Observation": ":earth_americas:",
         "UAV / Aerial": ":airplane:",
@@ -60,74 +58,79 @@ def reformat(df):
     df["Address"] = df.apply(
         lambda x: f"[:round_pushpin: {x['City']}]({gmaps_url}{x['Address']})", axis=1
     )
+
     df["Size & City"] = df.apply(
         lambda x: f"**{x['Office Size'][0]}**{x['Office Size'][1:]} {x['Address']}",
         axis=1,
     )
 
-    df = df[["Company", "Size & City", "Focus", "Country"]]
-    # df = df.drop(["Website", "Category", "City", "Notes (ex-name)", "Address", "Office Size"], axis=1)
-
     return df
 
 
-pdf = pd.read_csv("awesome-geospatial-companies - Companies A-Z.csv")
-# display(pdf.head(1))
-print(f"Unique companies: {pdf['Focus'].nunique()}")
+def table_to_markdown(df):
+    """
+    Formatted pandas dataframe to markdown table string as in github Readme.
+    """
+    chapter_links = ""
+    markdown_string = ""
+    for country in sorted(df.Country.unique()):
+        df_country = df[df["Country"] == country]
+        df_country = df_country.drop(["Country"], axis=1)
 
-if pdf.loc[:, pdf.columns != "Notes (ex-name)"].isnull().values.any():
-    print(pdf[pdf.loc[:, pdf.columns != "Notes (ex-name)"].isnull().any(axis=1)])
+        country_emoji = {
+            "china": "cn",
+            "france": "fr",
+            "germany": "de",
+            "italy": "it",
+            "south_korea": "kr",
+            "spain": "es",
+            "turkey": "tr",
+            "uae": "united_arab_emirates",
+            "usa": "us",
+            "russia": "ru",
+            "japan": "jp",
+        }
+        flag_emoji = country.lower()
+        flag_emoji = flag_emoji.replace(" ", "_")
+        if flag_emoji in list(country_emoji.keys()):
+            flag_emoji = country_emoji[flag_emoji]
+
+        repo_link = "https://github.com/chrieke/awesome-geospatial-companies#"
+        chapter_link = f"[:{flag_emoji}: {country}]({repo_link}{country.lower().replace(' ', '-')}-{flag_emoji})"
+        chapter_links = chapter_links + f"{chapter_link} - "
+
+        df_country = (
+            df_country.groupby(["Company", "Focus"])["Size & City"]
+            .apply(" <br /> ".join)
+            .reset_index()
+        )
+        df_country = df_country[["Company", "Size & City", "Focus"]]
+        df_country = df_country.rename(
+            {"Company": f"Company ({df_country.shape[0]})"}, axis=1
+        )
+
+        markdown_string = (
+            markdown_string
+            + f"## :{flag_emoji}: {country} \n"
+            + f"{df_country.to_markdown(index=False)} \n\n "
+        )
+
+    return chapter_links, markdown_string
+
+
+df = pd.read_csv("awesome-geospatial-companies - Companies A-Z.csv")
+print(f"Unique companies: {df['Focus'].nunique()}")
+
+if df.loc[:, df.columns != "Notes (ex-name)"].isnull().values.any():
+    print(df[df.loc[:, df.columns != "Notes (ex-name)"].isnull().any(axis=1)])
     raise ValueError("Table contains NA values!!!")
 
 if args.check_urls:
-    check_urls(urls=pdf["Website"].values)
+    check_urls(urls=df["Website"].values)
 
-pdf = reformat(df=pdf)
+df = format_table(df=df)
+df = df[["Company", "Size & City", "Focus", "Country"]]
 
-chapter_string = ""
-markdown_string = ""
-for country in sorted(pdf.Country.unique()):
-    df_country = pdf[pdf["Country"] == country]
-    df_country = df_country.drop(["Country"], axis=1)
-
-    country_emoji = {
-        "china": "cn",
-        "france": "fr",
-        "germany": "de",
-        "italy": "it",
-        "south_korea": "kr",
-        "spain": "es",
-        "turkey": "tr",
-        "uae": "united_arab_emirates",
-        "usa": "us",
-        "russia": "ru",
-        "japan": "jp",
-    }
-    flag_emoji = country.lower()
-    flag_emoji = flag_emoji.replace(" ", "_")
-    if flag_emoji in list(country_emoji.keys()):
-        flag_emoji = country_emoji[flag_emoji]
-
-    repo_link = "https://github.com/chrieke/awesome-geospatial-companies#"
-    chapter_link = f"[:{flag_emoji}: {country}]({repo_link}{country.lower().replace(' ', '-')}-{flag_emoji})"
-    chapter_string = chapter_string + f"{chapter_link} - "
-
-    df_country = (
-        df_country.groupby(["Company", "Focus"])["Size & City"]
-        .apply(" <br /> ".join)
-        .reset_index()
-    )
-    df_country = df_country[["Company", "Size & City", "Focus"]]
-
-    df_country = df_country.rename(
-        {"Company": f"Company ({df_country.shape[0]})"}, axis=1
-    )
-
-    markdown_string = (
-        markdown_string
-        + f"## :{flag_emoji}: {country} \n"
-        + f"{df_country.to_markdown(index=False)} \n\n "
-    )
-
+chapter_links, markdown_string = table_to_markdown(df)
 with open("Output.md", "w") as text_file:
-    text_file.write(chapter_string + "\n\n" + markdown_string)
+    text_file.write(chapter_links + "\n\n" + markdown_string)
