@@ -89,6 +89,7 @@ def table_to_markdown(df):
             "usa": "us",
             "russia": "ru",
             "japan": "jp",
+            "bosnia and herzegovina": "bosnia_herzegovina",
         }
         flag_emoji = country.lower()
         flag_emoji = flag_emoji.replace(" ", "_")
@@ -96,8 +97,8 @@ def table_to_markdown(df):
             flag_emoji = country_emoji[flag_emoji]
 
         repo_link = "https://github.com/chrieke/awesome-geospatial-companies#"
-        chapter_link = f"[:{flag_emoji}: {country}]({repo_link}{country.lower().replace(' ', '-')}-{flag_emoji})"
-        chapter_links = chapter_links + f"{chapter_link} - "
+        chapter_link = f"[:{flag_emoji}: {country}]({repo_link}{flag_emoji}-{country.lower().replace(' ', '-')})"
+        chapter_links += f"{chapter_link} - "
 
         df_country = (
             df_country.groupby(["Company", "Focus"])["Size & City"]
