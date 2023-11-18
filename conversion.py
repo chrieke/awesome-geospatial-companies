@@ -122,7 +122,7 @@ def table_to_markdown(df):
 df = pd.read_csv("awesome-geospatial-companies - Companies A-Z.csv")
 print(f"Unique companies: {df['Focus'].nunique()}")
 
-df = df.drop(["Notes (ex-name)", "lon", "lat"], axis=1)
+df = df.drop(["Notes (ex-name)"], axis=1)
 if df.isnull().values.any():
     print(df[df.loc[:, df.columns != "Notes (ex-name)"].isnull().any(axis=1)])
     raise ValueError("Table contains NA values!!!")
