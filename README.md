@@ -535,7 +535,7 @@ Thank you to the many contributors! To contribute please see the
 | [e-Geos](https://www.e-geos.it/#/)                    | **L** [:round_pushpin: Rome](https://www.google.com/maps/search/Via+Tiburtina,+965,+00156+Rome,+Italy+)                                                                                                                         | :earth_americas: EO: All-purpose                                                              | 
 
  ## :jp: Japan 
-| Company (6)                                   | Size & City                                                                                                                                           | Focus                                                                            |
+| Company (8)                                   | Size & City                                                                                                                                           | Focus                                                                            |
 |:----------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|
 | [Asia Air Survey](http://www.ajiko.co.jp/en/) | **M** [:round_pushpin: Kawasaki-shi](https://www.google.com/maps/search/1-2-2+Manpukuji,+Asao-ku,+Kawasaki-shi,+Kanagawa+Prefecture+215-0004,+Japan+) | :airplane: Aerial image & LiDAR acquistion, analysis                             |
 | [Axelspace](https://www.axelspace.com/)       | **M** [:round_pushpin: Tokyo](https://www.google.com/maps/search/3-3-3+Nihonbashi-Honcho,+Chuo-ku,+Tokyo,+103-0023,+Japan+)                           | :artificial_satellite: Microsatellite constellation for daily global observation |
@@ -543,6 +543,8 @@ Thank you to the many contributors! To contribute please see the
 | [Mirune](https://www.mierune.co.jp/?lang=en)  | **M** [:round_pushpin: Sapporo](https://www.google.com/maps/search/Kita+1-Jo+Higashi+4-Chome,+Chuo-ku,+Sapporo,+Hokkaido,+Japan+)                     | :globe_with_meridians: GIS solutions, focus on open source                       |
 | [Pasco](http://www.pasco.co.jp/eng/)          | **M** [:round_pushpin: Tokyo](https://www.google.com/maps/search/1-1-2+Higashiyama,+Meguro-ku,+Tokyo+153-0043,+Japan+)                                | :earth_americas: EO data reseller, Aerial image acquisition, GIS services        |
 | [Synspective](https://synspective.com)        | **S** [:round_pushpin: Tokyo](https://www.google.com/maps/search/Ginza+1-chome+bldg.+7F,+1-15-4+Ginza,+Chuo-ku,+Tokyo,+Japan+)                        | :earth_americas: EO: Smallsat SAR constellation & analytics                      | 
+| [Tellus](https://www.tellusxdp.com/)        | **L** [:round_pushpin: Tokyo](https://www.google.com/maps/search/さくらインターネット東京支社)                        | :globe_with_meridians: GIS/geodata platform                      | 
+| [Zenrin](https://www.zenrin.co.jp/index.html)                           | **L** [:round_pushpin: Tokyo](https://www.google.com/maps/search/㈱ゼンリン+東京本社) | :globe_with_meridians: ZENRIN GIS software                             |
 
  ## :kenya: Kenya 
 | Company (7)                                              | Size & City                                                                                                             | Focus                                                                   |
