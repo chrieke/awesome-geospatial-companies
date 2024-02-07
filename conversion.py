@@ -48,7 +48,10 @@ def format_table(df):
         "Satellite Operator": ":artificial_satellite:",
     }
     df = df.replace({"Category": categories})
-    df["Company"] = df.apply(lambda x: f"[{x['Company']}]({x['Website']})", axis=1)
+    df["Company"] = df.apply(
+        lambda x: f"[{x['Company']}]({x['Website']}){' :exclamation:' if pd.notna(x['New']) else ''}",
+        axis=1,
+    )
     df["Focus"] = df["Category"] + " " + df["Focus"]
 
     gmaps_url = "https://www.google.com/maps/search/"
@@ -123,8 +126,8 @@ df = pd.read_csv("awesome-geospatial-companies - Companies A-Z.csv")
 print(f"Unique companies: {df['Focus'].nunique()}")
 
 df = df.drop(["Notes (ex-name)"], axis=1)
-if df.isnull().values.any():
-    print(df[df.loc[:, df.columns != "Notes (ex-name)"].isnull().any(axis=1)])
+if df.loc[:, df.columns != "New"].isnull().values.any():
+    print(df.isnull().any(axis=1))
     raise ValueError("Table contains NA values!!!")
 
 if args.check_urls:
@@ -132,6 +135,7 @@ if args.check_urls:
 
 df = format_table(df=df)
 df = df[["Company", "Size & City", "Focus", "Country"]]
+
 
 chapter_links, markdown_string = table_to_markdown(df)
 with open("Output.md", "w") as text_file:
