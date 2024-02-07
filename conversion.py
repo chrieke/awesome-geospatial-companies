@@ -40,12 +40,12 @@ def check_urls(urls: List[str]):
 
 def format_table(df):
     categories = {
-        "Earth Observation": ":earth_americas:",
-        "UAV / Aerial": ":airplane:",
-        "GIS / Spatial Analysis": ":globe_with_meridians:",
-        "Digital Farming": ":seedling:",
-        "Webmap / Cartography": ":world_map:",
-        "Satellite Operator": ":artificial_satellite:",
+        "Earth Observation": "🛰️",
+        "GIS / Spatial Analysis": "🌎",
+        "UAV / Aerial": "✈️",
+        "Digital Farming": "🌿",
+        "Webmap / Cartography": "🗺️",
+        "Satellite Operator": "📡",
     }
     df = df.replace({"Category": categories})
     df["Company"] = df.apply(
