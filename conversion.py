@@ -41,7 +41,8 @@ def check_urls(urls: List[str]):
 def format_table(df):
     categories = {
         "Earth Observation": "🛰️",
-        "GIS / Spatial Analysis": "🌎",
+        "GIS / Spatial": "🌎",
+        "Climate": "☁️",
         "UAV / Aerial": "✈️",
         "Digital Farming": "🌿",
         "Webmap / Cartography": "🗺️",
