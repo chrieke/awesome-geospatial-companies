@@ -14,7 +14,7 @@ List of 600+ geospatial companies & interactive map. For finding geospatial jobs
 </p>
 
 <p align="center">
-Or explore the list as an <a href="https://www.google.com/maps/d/u/0/edit?mid=1SCCvhv3Tn3acV3EeY91dGxCdLuvSPGCH&ll=5.275933136532167%2C0&z=2">in Google maps</a> or as a<a href="https://docs.google.com/spreadsheets/d/1oBwZ7hq68nXnRV7wuM3-Aae9uRDyjnIOIEQXgQZAoBQ/edit?usp=sharing">Google Sheet!</a>
+Or explore the list <a href="https://www.google.com/maps/d/u/0/edit?mid=1SCCvhv3Tn3acV3EeY91dGxCdLuvSPGCH&ll=5.275933136532167%2C0&z=2">in Google maps</a> or as a <a href="https://docs.google.com/spreadsheets/d/1oBwZ7hq68nXnRV7wuM3-Aae9uRDyjnIOIEQXgQZAoBQ/edit?usp=sharing">Google Sheet!</a>
 </p>
 
 <br>
@@ -572,7 +572,6 @@ Thank you to the many contributors! To contribute please see the
 | [Pasco](http://www.pasco.co.jp/eng/)                  | **M** [:round_pushpin: Tokyo](https://www.google.com/maps/search/1-1-2+Higashiyama,+Meguro-ku,+Tokyo+153-0043,+Japan+)                                | 🛰️ EO data reseller, Aerial image acquisition, GIS services |
 | [Synspective](https://synspective.com)                | **S** [:round_pushpin: Tokyo](https://www.google.com/maps/search/Ginza+1-chome+bldg.+7F,+1-15-4+Ginza,+Chuo-ku,+Tokyo,+Japan+)                        | 🛰️ EO: Smallsat SAR constellation & analytics               |
 | [Zenrin](https://www.zenrin.co.jp/english/index.html) | **L** [:round_pushpin: Fukuoka](https://www.google.com/maps/search/3-1+Nakabarushinmachi,+Tobata-Ku,+Kitakyushu-Shi,+Fukuoka+804-0003,+Japan+)        | 🌎 Mapping & GIS software                                    | 
-| [Eukarya](https://eukarya.io/) | **S** [:round_pushpin: Tokyo](https://www.google.com/maps/search/+27F,+4-20-3+ebisu,+Shibuya-Ku,+Tokyo+150-6027,+Japan+)        | 🌎 GIS software                                    | 
 
  ## :kenya: Kenya 
 | Company (7)                                              | Size & City                                                                                                             | Focus                                              |
