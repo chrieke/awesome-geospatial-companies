@@ -1,6 +1,6 @@
 # Awesome Geospatial Companies [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-List of 600+ geospatial companies & interactive map. For finding geospatial jobs.
+List of 600+ geospatial companies & interactive map. For finding geospatial jobs, customers and understanding the geospatial industry! 
 
 🛰️ Earth Observation 🌎 GIS / Spatial 🌿 Digital Farming ☁️️ Climate / Weather 🗺️ Webmap / Cartography 📡️ Satellite Operator ✈️ UAV / Aerial
 
