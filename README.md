@@ -10,7 +10,7 @@ List of 600+ geospatial companies & interactive map. For finding geospatial jobs
 </p>
 
 <p align="center">
-  <img width="500" src="figures/preview_both.jpeg">
+  <img width="700" src="figures/preview_both.jpeg">
 </p>
 
 <p align="center">
