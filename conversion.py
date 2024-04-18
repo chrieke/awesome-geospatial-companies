@@ -55,7 +55,7 @@ def format_table(df):
     )
     df["Focus"] = df["Category"] + " " + df["Focus"]
 
-    gmaps_url = "https://www.google.com/maps/search/"
+    gmaps_url = "google.com/maps/search/"
     df["Address"] = df.apply(
         lambda x: "".join(y + "+" for y in x["Address"].split(" ")), axis=1
     )
