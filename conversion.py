@@ -50,17 +50,17 @@ def format_table(df):
     }
     df = df.replace({"Category": categories})
     df["Company"] = df.apply(
-        lambda x: f"[{x['Company']}]({x['Website']}){' :exclamation:' if pd.notna(x['New']) else ''}",
+        lambda x: f"[{x['Company']}]({x['Website']}){' ❗' if pd.notna(x['New']) else ''}",
         axis=1,
     )
     df["Focus"] = df["Category"] + " " + df["Focus"]
 
-    gmaps_url = "google.com/maps/search/"
+    gmaps_url = "https://www.google.com/maps/search/"
     df["Address"] = df.apply(
         lambda x: "".join(y + "+" for y in x["Address"].split(" ")), axis=1
     )
     df["Address"] = df.apply(
-        lambda x: f"[:round_pushpin: {x['City']}]({gmaps_url}{x['Address']})", axis=1
+        lambda x: f"[📍 {x['City']}]({gmaps_url}{x['Address']})", axis=1
     )
 
     df["Size & City"] = df.apply(
