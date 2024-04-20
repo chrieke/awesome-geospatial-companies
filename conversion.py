@@ -127,8 +127,12 @@ df = pd.read_csv("awesome-geospatial-companies - Companies A-Z.csv")
 print(f"Unique companies: {df['Focus'].nunique()}")
 
 df = df.drop(["Notes (ex-name)"], axis=1)
+# Print column name & row index of nan values
 if df.loc[:, df.columns != "New"].isnull().values.any():
-    print(df.isnull().any(axis=1))
+    for column in df.columns[df.columns != "New"]:
+        if df[column].isnull().any():
+            na_rows = df[column][df[column].isnull()].index.tolist()
+            print(f"Column '{column}' has NaN at rows: {na_rows}")
     raise ValueError("Table contains NA values!!!")
 
 if args.check_urls:
