@@ -38,61 +38,68 @@ class URLCheckResult:
     status_code: int = None
     error_message: str = None
 
+
 def check_single_url(url: str) -> URLCheckResult:
     headers = {
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
         "Accept-Language": "en-US,en;q=0.5",
     }
-    
+
     acceptable_codes = {200, 201, 202, 203, 301, 302, 303, 307, 308, 403, 429}
-    
-    if not url.startswith(('http://', 'https://')):
-        url = f'https://{url}'
-        
+
+    if not url.startswith(("http://", "https://")):
+        url = f"https://{url}"
+    elif url.startswith("http://"):
+        url = url.replace("http://", "https://", 1)
+
     try:
         response = requests.get(
-            url, 
-            headers=headers, 
-            timeout=10,
-            allow_redirects=True,
-            verify=False
+            url, headers=headers, timeout=10, allow_redirects=True, verify=False
         )
-        
+
         if response.status_code in acceptable_codes:
-            return URLCheckResult(url=url, status="OK", status_code=response.status_code)
+            return URLCheckResult(
+                url=url, status="OK", status_code=response.status_code
+            )
         else:
             return URLCheckResult(
-                url=url, 
-                status="ERROR", 
+                url=url,
+                status="ERROR",
                 status_code=response.status_code,
-                error_message=f"Status Code: {response.status_code}"
+                error_message=f"Status Code: {response.status_code}",
             )
-                
+
     except RequestException as e:
         if "ConnectTimeout" in str(e) or "ConnectionError" in str(e):
             return URLCheckResult(url=url, status="ERROR", error_message=str(e))
         return URLCheckResult(url=url, status="SKIP", error_message=str(e))
 
+
 def check_urls(urls: List[str]):
     results = []
-    
+
     # Use ThreadPoolExecutor for parallel processing
     with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
         future_to_url = {executor.submit(check_single_url, url): url for url in urls}
-        
-        for future in tqdm(concurrent.futures.as_completed(future_to_url), total=len(urls)):
+
+        for future in tqdm(
+            concurrent.futures.as_completed(future_to_url), total=len(urls)
+        ):
             results.append(future.result())
-    
-    df_results = pd.DataFrame([
-        {
-            'URL': r.url,
-            'Status': r.status,
-            'Status Code': r.status_code,
-            'Error': r.error_message
-        } for r in results
-    ])
-    
+
+    df_results = pd.DataFrame(
+        [
+            {
+                "URL": r.url,
+                "Status": r.status,
+                "Status Code": r.status_code,
+                "Error": r.error_message,
+            }
+            for r in results
+        ]
+    )
+
     # Print summary
     print("\nURL Check Summary:")
     print("-----------------")
@@ -100,11 +107,11 @@ def check_urls(urls: List[str]):
     print(f"Successful: {len(df_results[df_results['Status'] == 'OK'])}")
     print(f"Errors: {len(df_results[df_results['Status'] == 'ERROR'])}")
     print(f"Skipped: {len(df_results[df_results['Status'] == 'SKIP'])}")
-    
+
     # Print failed URLs
-    if len(df_results[df_results['Status'] != 'OK']) > 0:
+    if len(df_results[df_results["Status"] != "OK"]) > 0:
         print("\nFailed URLs:")
-        print(df_results[df_results['Status'] != 'OK'].to_string(index=False))
+        print(df_results[df_results["Status"] != "OK"].to_string(index=False))
 
 
 def format_table(df):
