@@ -21,8 +21,9 @@ Google sheet, from which the readme is automatically generated with the correct 
 
 Thank you to the many people that contributed to this list!
 
-*Dan Hirst, Sam Warwick, Naman Jain, kaplanlior, ecomodeller, pkopparla, thierryweo, kannkyo, EngicanV, brendan8229, arisamikumo, gakarak, DahnJ, majorgyb, 
-ErinBaker, NiklasJordan, seralf, bayoishola20, aurelienchaumet, soxofaan, sholl, 
-whatnick, alvintuitoek, hm-di, freyfogle, appanacca, lukejocz, fvanderbiest, julienr, simgislab, NBrown140, 
-rbrundritt, Corbelbiz, AleMScof, Flávia Mendes, Marcia Edwards, Danielle Caron, Milian Novotny, Balen Basu, Jessica 
-Immelman, Patryk Pilpczuk, Ean Aicrag, Mihkel Lehtmets, Sophie Roney, Frederico Bayle, Ömercan Kömür and many more!* 
+*Dan Hirst, Rica Zamora Duchateu, nighthwawk, ecomodeller, Nader Labib, Nusret Demir, fayewx, juliohm, Sam Warwick, Naman Jain, kaplanlior, 
+ecomodeller, pkopparla, thierryweo, kannkyo, EngicanV, brendan8229, arisamikumo, gakarak, DahnJ, majorgyb, ErinBaker, NiklasJordan, 
+seralf, bayoishola20, aurelienchaumet, soxofaan, sholl, whatnick, alvintuitoek, hm-di, freyfogle, appanacca, lukejocz, 
+fvanderbiest, julienr, simgislab, NBrown140, rbrundritt, Corbelbiz, AleMScof, Flávia Mendes, Marcia Edwards, Danielle Caron, 
+Milian Novotny, Balen Basu, Jessica Immelman, Patryk Pilpczuk, Ean Aicrag, Mihkel Lehtmets, Sophie Roney, Frederico Bayle, Ömercan Kömür 
+and many more!* 
