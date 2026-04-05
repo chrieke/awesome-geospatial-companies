@@ -13,9 +13,9 @@ Google sheet, from which the readme is automatically generated with the correct 
  
 - Please try to include suggestions for all fields. But just a company name is also fine, no worries!
 - Possible Categories: Earth Observation, GIS / Spatial Analysis, Webmap / Cartography, Digital Farming, UAV / Aerial, Satellite Operator  
-- Office size (S < 20, M 20-100, L > 100) is an estimate based on LinkendIn location filter, industry knowledge, recent job advertisements etc.
+- Office size (S < 20, M 20-100, L > 100) is an estimate based on LinkedIn location filter, industry knowledge, recent job advertisements etc.
 - Relevant (B)ranch offices (if non-sales office with sufficient amount of geo-related jobs) are listed separately.
-- The list is mostly focused on commercial companies, currently there are no research institues included.
+- The list is mostly focused on commercial companies, currently there are no research institutes included.
 
 ### Contributors
 

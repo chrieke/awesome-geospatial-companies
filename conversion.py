@@ -7,17 +7,15 @@ Add "--check-urls" to check for broken company website URLs.
 """
 
 from typing import List
+import time
 import requests
 from requests.exceptions import RequestException
 import argparse
-import urllib3
 import concurrent.futures
 from dataclasses import dataclass
 
 import pandas as pd
 from tqdm import tqdm
-
-urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 parser = argparse.ArgumentParser(
     description="Convert the csv to markdown, optionally check the website urls via --check-urls"
@@ -46,34 +44,69 @@ def check_single_url(url: str) -> URLCheckResult:
         "Accept-Language": "en-US,en;q=0.5",
     }
 
-    acceptable_codes = {200, 201, 202, 203, 301, 302, 303, 307, 308, 403, 429}
+    ok_codes = {200, 201, 202, 203, 301, 302, 303, 307, 308}
+    warn_codes = {403, 429}
+    retry_delays = [2, 5]
 
     if not url.startswith(("http://", "https://")):
         url = f"https://{url}"
     elif url.startswith("http://"):
         url = url.replace("http://", "https://", 1)
 
-    try:
-        response = requests.get(
-            url, headers=headers, timeout=10, allow_redirects=True, verify=False
+    def _request(method="HEAD", verify=True):
+        return requests.request(
+            method, url, headers=headers, timeout=10, allow_redirects=True, verify=verify
         )
 
-        if response.status_code in acceptable_codes:
+    last_error = None
+    for attempt in range(len(retry_delays) + 1):
+        if attempt > 0:
+            time.sleep(retry_delays[attempt - 1])
+
+        try:
+            # Try HEAD first, fall back to GET on 405
+            response = _request("HEAD")
+            if response.status_code == 405:
+                response = _request("GET")
+
+            if response.status_code in ok_codes:
+                return URLCheckResult(
+                    url=url, status="OK", status_code=response.status_code
+                )
+            elif response.status_code in warn_codes:
+                # For 429, respect Retry-After and retry
+                if response.status_code == 429 and attempt < len(retry_delays):
+                    retry_after = int(response.headers.get("Retry-After", retry_delays[attempt]))
+                    time.sleep(max(0, retry_after - retry_delays[attempt]))
+                    continue
+                return URLCheckResult(
+                    url=url,
+                    status="WARN",
+                    status_code=response.status_code,
+                    error_message=f"Status Code: {response.status_code}",
+                )
+            else:
+                last_error = URLCheckResult(
+                    url=url,
+                    status="ERROR",
+                    status_code=response.status_code,
+                    error_message=f"Status Code: {response.status_code}",
+                )
+
+        except requests.exceptions.SSLError as e:
             return URLCheckResult(
-                url=url, status="OK", status_code=response.status_code
-            )
-        else:
-            return URLCheckResult(
-                url=url,
-                status="ERROR",
-                status_code=response.status_code,
-                error_message=f"Status Code: {response.status_code}",
+                url=url, status="WARN", error_message=f"SSL error: {e}"
             )
 
-    except RequestException as e:
-        if "ConnectTimeout" in str(e) or "ConnectionError" in str(e):
-            return URLCheckResult(url=url, status="ERROR", error_message=str(e))
-        return URLCheckResult(url=url, status="SKIP", error_message=str(e))
+        except (requests.ConnectTimeout, requests.ConnectionError) as e:
+            last_error = URLCheckResult(
+                url=url, status="ERROR", error_message=str(e)
+            )
+
+        except RequestException as e:
+            return URLCheckResult(url=url, status="SKIP", error_message=str(e))
+
+    return last_error
 
 
 def check_urls(urls: List[str]):
@@ -105,13 +138,21 @@ def check_urls(urls: List[str]):
     print("-----------------")
     print(f"Total URLs checked: {len(df_results)}")
     print(f"Successful: {len(df_results[df_results['Status'] == 'OK'])}")
+    print(f"Warnings: {len(df_results[df_results['Status'] == 'WARN'])}")
     print(f"Errors: {len(df_results[df_results['Status'] == 'ERROR'])}")
     print(f"Skipped: {len(df_results[df_results['Status'] == 'SKIP'])}")
 
+    # Print warnings
+    df_warn = df_results[df_results["Status"] == "WARN"]
+    if len(df_warn) > 0:
+        print("\nWarnings (site exists but may be blocking or has SSL issues):")
+        print(df_warn.to_string(index=False))
+
     # Print failed URLs
-    if len(df_results[df_results["Status"] != "OK"]) > 0:
+    df_failed = df_results[df_results["Status"].isin(["ERROR", "SKIP"])]
+    if len(df_failed) > 0:
         print("\nFailed URLs:")
-        print(df_results[df_results["Status"] != "OK"].to_string(index=False))
+        print(df_failed.to_string(index=False))
 
 
 def format_table(df):
@@ -200,16 +241,25 @@ def table_to_markdown(df):
 
 
 df = pd.read_csv("awesome-geospatial-companies - Companies A-Z.csv")
-print(f"Unique companies: {df['Focus'].nunique()}")
+print(f"Unique companies: {df['Company'].nunique()}")
 
-df = df.drop(["Notes (ex-name)"], axis=1)
-# Print column name & row index of nan values
-if df.loc[:, df.columns != "New"].isnull().values.any():
-    for column in df.columns[df.columns != "New"]:
-        if df[column].isnull().any():
-            na_rows = df[column][df[column].isnull()].index.tolist()
-            print(f"Column '{column}' has NaN at rows: {na_rows}")
-    raise ValueError("Table contains NA values!!!")
+df = df.drop(columns=["Notes (ex-name)"])
+df = df.rename(columns={"Unnamed: 1": "New"})
+
+# Check for NaN values (excluding "New" column)
+check_cols = [c for c in df.columns if c != "New"]
+has_na = False
+for column in check_cols:
+    na_mask = df[column].isnull()
+    if na_mask.any():
+        has_na = True
+        na_rows = df.loc[na_mask]
+        print(f"\n⚠ Empty values in column '{column}' ({na_mask.sum()} rows):")
+        for idx, row in na_rows.iterrows():
+            company = row.get("Company", f"row {idx}")
+            print(f"  Row {idx}: {company}")
+if has_na:
+    raise ValueError("Table contains empty values, see details above.")
 
 if args.check_urls:
     check_urls(urls=df["Website"].values)

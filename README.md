@@ -20,9 +20,9 @@ Explore the list below, or as an <a href="https://www.google.com/maps/d/u/0/edit
 <br>
 
 - Recent additions indicated with ❗
-- Office size (S < 20, M 20-100, L > 100) is an estimate (LinkendIn, industry knowledge, job ads etc.)
+- Office size (S < 20, M 20-100, L > 100) is an estimate (LinkedIn, industry knowledge, job ads etc.)
 - Relevant (B)ranch offices (non-sales office with sufficient amount of geo-related jobs) are listed separately.
-- Focus on commercial companies, currently no research institues included.
+- Focus on commercial companies, currently no research institutes included.
 
 Thank you to the many contributors! To contribute please see the 
 [contribution guide](https://github.com/chrieke/awesome-geospatial-companies/blob/master/CONTRIBUTING.md). 
