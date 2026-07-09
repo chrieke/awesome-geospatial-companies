@@ -159,12 +159,17 @@ def format_table(df):
     categories = {
         "Earth Observation": "🛰️",
         "GIS / Spatial": "🌎",
-        "Climate": "☁️",
+        "Climate / Weather": "☁️",
         "UAV / Aerial": "✈️",
         "Digital Farming": "🌿",
         "Webmap / Cartography": "🗺️",
         "Satellite Operator": "📡",
     }
+    unknown = sorted(set(df["Category"].unique()) - set(categories))
+    if unknown:
+        raise ValueError(
+            f"Sheet has categories with no emoji mapping (add them to the `categories` dict): {unknown}"
+        )
     df = df.replace({"Category": categories})
     df["Company"] = df.apply(
         lambda x: f"[{x['Company']}]({x['Website']}){' ❗' if pd.notna(x['New']) else ''}",
@@ -240,7 +245,10 @@ def table_to_markdown(df):
     return chapter_links, markdown_string
 
 
-df = pd.read_csv("awesome-geospatial-companies - Companies A-Z.csv")
+# Read the company data directly from the public Google Sheet (tab "Companies A-Z", gid=0).
+SHEET_ID = "1oBwZ7hq68nXnRV7wuM3-Aae9uRDyjnIOIEQXgQZAoBQ"
+SHEET_CSV_URL = f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/export?format=csv&gid=0"
+df = pd.read_csv(SHEET_CSV_URL)
 print(f"Unique companies: {df['Company'].nunique()}")
 
 df = df.drop(columns=["Notes (ex-name)"])
@@ -269,5 +277,20 @@ df = df[["Company", "Size & City", "Focus", "Country"]]
 
 
 chapter_links, markdown_string = table_to_markdown(df)
-with open("Output.md", "w") as text_file:
-    text_file.write(chapter_links + "\n\n" + markdown_string)
+
+# Splice the generated tables directly into README.md, between the two marker comments.
+# Everything above the start marker (title, legend, notes) is hand-maintained and untouched.
+START_MARKER = "<!-- companies-start -->"
+END_MARKER = "<!-- companies-end -->"
+readme = open("README.md", encoding="utf-8").read()
+if START_MARKER not in readme or END_MARKER not in readme:
+    raise ValueError(
+        f"README.md is missing the {START_MARKER} / {END_MARKER} markers "
+        "that delimit the auto-generated region."
+    )
+before = readme[: readme.index(START_MARKER) + len(START_MARKER)]
+after = readme[readme.index(END_MARKER) :]
+generated = chapter_links + "\n\n" + markdown_string
+readme = before + "\n\n" + generated + "\n\n" + after
+with open("README.md", "w", encoding="utf-8") as text_file:
+    text_file.write(readme)
